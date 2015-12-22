@@ -322,3 +322,14 @@ footer {
     color:#444;
   }
 }
+.entry-content img{
+  position: relative;
+  zoom: 1;
+  width: 200px;
+  overflow: hidden;
+}
+.titles{
+  text-align: left;
+  width: auto;
+}
+
