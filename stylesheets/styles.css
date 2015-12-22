@@ -333,3 +333,17 @@ footer {
   width: auto;
 }
 
+.blue{
+  background: rgb(10,56,98);
+}
+.blue-font{
+  color: rgb(10,56,98);
+}
+
+.bg{
+  height: 30px;
+}
+
+.english-titles th,.english-titles td{
+  border: none;
+}
