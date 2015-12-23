@@ -1,23 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="utf-8" />
-    <style>
-        html, body {
-            position: absolute;
-            width: 100%;
-            height: 100%;
-            overflow:hidden;
-            margin: 0;
-            padding: 0;
-        }
-    </style>
+    <meta charset="utf-8"/>
 </head>
 
 <body>
 <script>
     var TextParticles = function () {
-
         var extend = function (target, source, isOverwrite) {
             if (isOverwrite == undefined) isOverwrite = true;
             for (var key in source) {
@@ -34,7 +23,9 @@
             return p.getElementsByTagName(tag);
         };
         var addEvent = function (o, e, f) {
-            o.addEventListener ? o.addEventListener(e, f, false) : o.attachEvent('on'+e, function () {f.call(o)});
+            o.addEventListener ? o.addEventListener(e, f, false) : o.attachEvent('on' + e, function () {
+                f.call(o)
+            });
         }
         window.requesetAnimFrame = function () {
             return window.requesetAnimationFrame ||
@@ -43,17 +34,15 @@
                     window.oRequestAnimationFrame ||
                     window.msRequestAnimationFrame ||
                     function (fn) {
-                        window.setTimeout(fn, 1000/60);
+                        window.setTimeout(fn, 1000 / 60);
                     };
         }();
 
         var mouseX = 0, mouseY = 0;
-        function onMousemove (e) {
+
+        function onMousemove(e) {
             mouseX = e.clientX;
             mouseY = e.clientY;
-        }
-        function onResize (e) {
-
         }
 
         var init = function (opt) {
@@ -92,29 +81,27 @@
             },
             loop: function () {
                 var _this = this;
-                /*setInterval(function () {
-                 _this.doFrame();
-                 }, 20);
-                 */
-                requesetAnimFrame(function () {_this.loop()});
+                requesetAnimFrame(function () {
+                    _this.loop()
+                });
                 this.doFrame();
             },
             doFrame: function () {
                 this.ctx.clearRect(0, 0, this.canvas.width, this.canvas.height);
-                for (var i = 0; i < this.particles.length; i ++) {
+                for (var i = 0; i < this.particles.length; i++) {
                     var p = this.particles[i];
                     p.update();
                 }
             },
             getImageData: function () {
                 var imageData = this.ctx.getImageData(0, 0, this.canvas.width, this.canvas.height);
-                for (var x = 0; x < imageData.width; x ++) {
-                    for (var y = 0; y < imageData.height; y ++) {
+                for (var x = 0; x < imageData.width; x++) {
+                    for (var y = 0; y < imageData.height; y++) {
                         //var i = 4*(x * imageData.height + y);
-                        var i = 4*(y * imageData.width + x);
+                        var i = 4 * (y * imageData.width + x);
                         if (imageData.data[i + 3] > 128) {
-                            this.place ++;
-                            (this.place%4 == 0) && this.particles.push(new Particle(x, y, this.canvas));
+                            this.place++;
+                            (this.place % 4 == 0) && this.particles.push(new Particle(x, y, this.canvas));
                         }
                     }
                 }
@@ -123,7 +110,7 @@
                 this.ctx.textAlign = 'center';
                 this.ctx.textBaseline = 'middle';
                 this.ctx.font = '200px sans-serif';
-                this.ctx.fillText('AlloyTeam', this.canvas.width/2, this.canvas.height/3);
+                this.ctx.fillText('richard', this.canvas.width / 2, this.canvas.height / 3);
             },
             setCvsStyle: function () {
                 this.canvas.width = window.innerWidth;
@@ -145,8 +132,8 @@
             this.x = Math.random() * this.canvas.width;
             this.y = Math.random() * this.canvas.height;
 
-            this.vx = Math.random()*10 - 5;
-            this.vy = Math.random()*10 - 5;
+            this.vx = Math.random() * 10 - 5;
+            this.vy = Math.random() * 10 - 5;
 
         }
         Particle.prototype = {
@@ -160,7 +147,7 @@
                 var mouseF = 0, mouseA = 0;
                 if (mouseX > 0 && mouseY > 0) {
                     var dis = Math.pow((this.x - mouseX), 2) + Math.pow((this.y - mouseY), 2);
-                    mouseF = Math.min(5000/dis, 5000);
+                    mouseF = Math.min(5000 / dis, 5000);
                     mouseA = Math.atan2(this.y - mouseY, this.x - mouseX);
                 } else {
                     mouseF = 0;
