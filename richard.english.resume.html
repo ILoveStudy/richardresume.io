@@ -78,6 +78,23 @@
                 <p>I am famililar to Shell basic programming and  shell operational</p>
 
                 <h3  class="glyphicon glyphicon-hand-right"> SQL/NO-SQL</h3>
+                <p>About MYSQL:I am familiar to MySQL database create,read,update,delete,MySql performance optimization,MySql admin, MySql table design</p>
+                <p>About MangoDB:I am familiar to MangoDB create,read,update,delete</p>
+                <p>About Redis:I am familiar to Redis create,read,update,delete</p>
+
+                <h3  class="glyphicon glyphicon-hand-right"> SERVER</h3>
+                <p>about Apacche:I am familiar to configure Apacche server</p>
+                <p>about Jboss:I am familiar to configure Jboss server</p>
+                <p>about Weblogic:I am familiar to configure Weblogic server</p>
+                <p>about Nginx:I am familiar to configure Nginx server</p>
+                <p>about Jet:I am familiar to configure Jet server</p>
+
+
+                <h3  class="glyphicon glyphicon-hand-right"> DEVELOPER TOOLS</h3>
+                <p>I have mastered use GIT to control source code version  </p>
+                <p>I have mastered use SVN to control source code version  </p>
+                <p>I have mastered use Maven to admin Java project   </p>
+                <p>I have mastered use Ant to admin Java project   </p>
 
             </div>
 
@@ -108,13 +125,9 @@
 
     window.onload = function(){
         document.body.appendChild(canvas);
-        document.body.appendChild(document.createElement("div")).innerHTML="please move the mouse";
         initTextPoints(textSize);
         initParticles();
         set = setInterval(update, 1000/fps);
-        setTimeout(function () {
-            clearInterval(set);
-        },20000)
     }
 
     function update(){
