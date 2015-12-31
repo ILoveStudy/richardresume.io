@@ -2,9 +2,10 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+
     <title></title>
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css"/>
     <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/github-light.css">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -36,14 +37,14 @@
         </table>
         <div class="skill">
             <div class="items">
-                <h1>Skills</h1>
-                <h3>Data Structures And Algorithms</h3>
+                <h1>Programming Skills</h1>
+                <h3 class="glyphicon glyphicon-hand-right"> Data Structures And Algorithms</h3>
                 <p>I am familiar with kind of common Data Structures and  Algorithms</p>
                 <p>Data Structures:Linked list,Red black tree, Binary tree,Hash data structure,Helical-structure.etc</p>
                 <p>Data Algorithms:Backtracking Algorithm,Recursive Algorithm,Heuristic Algorithm,Evaluates Algorithm etc</p>
 
 
-                <h3>Javascript</h3>
+                <h3  class="glyphicon glyphicon-hand-right"> Javascript</h3>
                 <p>I have mastered browsers side Javascript basic and server side Nodejs,i am familiar with Js OOP,AOP, Understood Js 16 design patterns,JS common Data Structures and Algorithms</p>
                 <p>I am familiar use third party framework</p>
                 <p>About jQuery and zeptojs:I had read all of  jQuery source code and have mastered jquery,Understood jQuery source code,jQuery source code design patterns thinking ,Understood jquery event mechanism,and jquery sizzle selector</p>
@@ -52,17 +53,170 @@
                 <p>About Backbonejs:I had read all Backbone source code and  have mastered backbonejs,familiar with Backbone MVC design pattern,Understood Route,History,View,Model,Collection moduls</p>
                 <p>About Requirejs:I had read all Requirejs source code and have mastered requirejs,familiar with Requirejs load principle,and,module manage</p>
 
-                <h3>PHP</h3>
+                <h3  class="glyphicon glyphicon-hand-right"> PHP</h3>
                 <p>I have mastered php basic programming,i hardly know php OOP,AOP, i am  very familiar to develop under LAMP or LNMP environment</p>
                 <p>About laravel MVC:i am familiar to use laravel MVC,and i can build my own MVC framework</p>
                 <p>About CMS :i know how to use opoen source CMS,and i can build my own CMS</p>
-                <p>About PHP extions :i know php extions develop</p>
+                <p>About PHP extions :i know php extensions develop</p>
+
 
             </div>
 
         </div>
     </article>
 </div>
+<script src="javascripts/Vector.js"></script>
+
+<script>
+//    var textSize = 6;
+//    var text0 = "Welcome to visit richardgong";
+//    var text1 = "resume think you!";
+//
+//    var width = 1000;
+//    var height = 1000;
+//    var fps = 60;
+//
+//    var canvas = document.createElement("canvas");
+//    var ctx = canvas.getContext("2d");
+//    ctx.backgroundAlpha = 0;
+//    canvas.width = width;
+//    canvas.height = height;
+//
+//    var mouse = new Vector();
+//    var textPoints = [];
+//    var particles = [];
+//    var halfTextSize = textSize * .4;
+//
+//
+//
+//    window.onload = function(){
+//        document.body.appendChild(canvas);
+//
+//        document.body.appendChild(document.createElement("div")).innerHTML="please move the mouse";
+//        initTextPoints(textSize);
+//        initParticles();
+//        setInterval(update, 1000/fps);
+//    }
+//
+//    function update(){
+//        ctx.save();
+//        ctx.globalAlpha = .2;
+//        ctx.fillRect(0, 0, width, height);
+//        ctx.restore();
+//        for(var i = 0, l = particles.length;i < l;i ++)
+//        {
+//            particles[i].draw();
+//            particles[i].update();
+//        }
+//    }
+//
+//    function initTextPoints(n){
+//        var n = n||4;
+//        ctx.font = "bold 12px serif"
+//        ctx.textAlign = "left";
+//        ctx.textBaseline = "top";
+//        ctx.fillText(text0, 0, 0, width);
+//        ctx.fillText(text1, 0, 20, width);
+//        var w = Math.max(ctx.measureText(text0).width, ctx.measureText(text0).width);
+//
+//        var offsetX = (width-w*n)>>1;
+//        var offsetY = (height-28*n)>>1;
+//
+//        textPoints = [];
+//        var data = ctx.getImageData(0, 0, width, height).data;
+//        for (var i = 0, wl = width * 4; i < data.length; i += 4){
+//            if (data[i + 3] > 100) {
+//                x = (i % wl) / 4;
+//                y = parseInt(i / wl)
+//                textPoints.push([x*n + offsetX, y*n + offsetY]);
+//            }
+//        }
+//    }
+//
+//
+//    var Particle = function(x, y){
+//        this.pos = new Vector(x, y);
+//        this.target = new Vector(x, y);
+//        this.color = "#f96";
+//        this.angle = 0;
+//        this.angleV = 0;
+//        this.v = new Vector();
+//        this.a = new Vector();
+//        this.move = false;
+//    };
+//
+//    Particle.prototype = {
+//        draw:function(){
+//            ctx.save();
+//            ctx.fillStyle = "hsl(" + this.color +",50%,50%)"
+//            ctx.translate(this.pos.x, this.pos.y);
+//            ctx.rotate(this.angle);
+//            ctx.fillRect(-halfTextSize, -halfTextSize, halfTextSize*2, halfTextSize*2);
+//            ctx.restore();
+//        },
+//        update:function(){
+//
+//            this.angle += this.angleV;
+//            this.a = this.target.minusNew(this.pos);
+//            this.a.scale(.05);
+//
+//            var ma =    mouse.minusNew(this.pos);
+//            if(ma.getLength() < 50)
+//            {
+//                ma.scale(.1);
+//                ma.rotate(.1);
+//                this.pos.minus(ma);
+//                return;
+//            }
+//
+//            this.color+=4;
+//            this.color = this.color%360;
+//            this.move = true;
+//            this.v.plus(this.a);
+//            this.pos.plus(this.a);
+//
+//        },
+//        init:function(){
+//            this.pos.x = Math.random()*width;
+//            this.pos.y = Math.random()*height;
+//            this.angleV = -.5+Math.random();
+//            this.color = 1;
+//        }
+//    };
+//
+//
+//    function initParticles(){
+//        var p;
+//        textPoints.forEach(function(arr, i){
+//            setTimeout(function(){
+//                p = new Particle(arr[0], arr[1]);
+//                p.init();
+//                p.color = i;
+//                particles.push(p);
+//            }, i *10);
+//        });
+//    }
+//
+//    canvas.onmousemove = function(e){
+//        mouse.x = e.clientX;
+//        mouse.y = e.clientY;
+//    };
+//
+//    canvas.ontouchmove = function(e){
+//        e.preventDefault();
+//        mouse.x = e.touches[0].clientX;
+//        mouse.y = e.touches[0].clientY;
+//    };
+//
+//    canvas.onmouseout = function(){
+//        mouse.reset(1000, 1000);
+//    }
+//
+//    canvas.ontouchend = function(){
+//        e.preventDefault();
+//        mouse.reset(1000, 1000);
+//    }
+</script>
 
 </body>
 </html>

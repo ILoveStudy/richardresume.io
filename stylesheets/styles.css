@@ -297,10 +297,15 @@ ul{
 .skill .items{
   border-top: rgb(10,56,98) dotted 2px;
   padding: 25px 0;
-  line-height: 3;
 }
 body{
   background: url("../img/images1.png");
 }
 
-
+canvas{
+  position: fixed;
+  z-index: 1000;
+  top: 0;
+  left: 0;
+  background: transparent;
+}
