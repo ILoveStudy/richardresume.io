@@ -321,4 +321,22 @@ canvas {
 
 h1 {
     display: block !important;
+    font-size: 35px;
+
 }
+
+h1, h2, h3, h4, h5, h6 {
+    color: #000;
+    font-weight: bold !important;
+}
+
+span {
+    color: #727272;
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.h3-title {
+    text-indent: 2em;
+}
+.h3-title2{text-indent: 5em;}
