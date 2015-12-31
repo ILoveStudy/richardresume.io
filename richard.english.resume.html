@@ -88,8 +88,8 @@
 
 <script>
     var textSize = 6;
-    var text0 = "Welcome to visit richardgong";
-    var text1 = "resume think you!";
+    var text0 = "Welcome to visit my resume";
+    var text1 = "";
     var width = 1000;
     var height = 200;
     var fps = 60;
@@ -104,13 +104,17 @@
     var textPoints = [];
     var particles = [];
     var halfTextSize = textSize * .4;
+    var set;
 
     window.onload = function(){
         document.body.appendChild(canvas);
         document.body.appendChild(document.createElement("div")).innerHTML="please move the mouse";
         initTextPoints(textSize);
         initParticles();
-        setInterval(update, 1000/fps);
+        set = setInterval(update, 1000/fps);
+        setTimeout(function () {
+            clearInterval(set);
+        },20000)
     }
 
     function update(){
