@@ -12,7 +12,6 @@
 
 </head>
 <body>
-
 <div id="readme" class="blob instapaper_body">
     <article class="markdown-body entry-content" itemprop="mainContentOfPage">
         <div class="bg blue"></div>
@@ -92,7 +91,7 @@
     var text0 = "Welcome to visit richardgong";
     var text1 = "resume think you!";
     var width = 1000;
-    var height = 1000;
+    var height = 200;
     var fps = 60;
 
     var canvas = document.createElement("canvas");
@@ -165,14 +164,13 @@
     Particle.prototype = {
         draw:function(){
             ctx.save();
-            ctx.fillStyle = "hsl(" + this.color +",0%,0%)"
+            ctx.fillStyle = "red"
             ctx.translate(this.pos.x, this.pos.y);
             ctx.rotate(this.angle);
             ctx.fillRect(-halfTextSize, -halfTextSize, halfTextSize*2, halfTextSize*2);
             ctx.restore();
         },
         update:function(){
-
             this.angle += this.angleV;
             this.a = this.target.minusNew(this.pos);
             this.a.scale(.05);
