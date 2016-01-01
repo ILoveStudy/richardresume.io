@@ -339,4 +339,11 @@ span {
 .h3-title {
     text-indent: 2em;
 }
-.h3-title2{text-indent: 5em;}
+
+.h3-title2 {
+    text-indent: 5em;
+}
+.glyphicon-certificate img{
+    width: auto;
+    max-width: 100%;
+}
