@@ -14,7 +14,10 @@
 <body>
 <div id="readme" class="blob instapaper_body">
     <article class="markdown-body entry-content" itemprop="mainContentOfPage">
+        <canvas id="canvas"></canvas>
         <div class="bg blue"></div>
+        <br>
+
         <div class="row">
             <div class="col-md-6  col-lg-6 col-sm-12">
                 <h1 class="blue-font">Richard Gong</h1>
@@ -30,7 +33,7 @@
 
             </div>
             <div class="col-md-6  col-lg-6 col-sm-12">
-                <img src="img/richard.png"  alt=""/>
+                <img src="img/richard.png" alt=""/>
                 <br>
                 <br>
             </div>
@@ -209,16 +212,16 @@
     </article>
 </div>
 <script src="javascripts/Vector.js"></script>
-
+<script src="bower_components/jquery/dist/jquery.js"></script>
 <script>
     var textSize = 6;
     var text0 = "Welcome to visit my resume";
     var text1 = "";
-    var width = 1000;
-    var height = 200;
+    var width = $('body').width();
+    var height = 300;
     var fps = 60;
 
-    var canvas = document.createElement("canvas");
+    var canvas = document.getElementById('canvas');
     var ctx = canvas.getContext("2d");
     ctx.backgroundAlpha = 0;
     canvas.width = width;
@@ -231,14 +234,17 @@
     var set;
 
     window.onload = function () {
-        document.body.appendChild(canvas);
         initTextPoints(textSize);
         initParticles();
-        set = setInterval(update, 1000 / fps);
+        set = setInterval(update, width / fps);
+        setTimeout(function () {
+            $(canvas).remove();
+            clearInterval(set);
+        }, 20000);
     }
 
     function update() {
-        ctx.clearRect(0, 0, 1000, 1000);
+        ctx.clearRect(0, 0, width, width);
         ctx.save();
         ctx.globalAlpha = 0;
         ctx.fillRect(0, 0, width, height);

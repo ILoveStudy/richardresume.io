@@ -313,10 +313,8 @@ canvas {
     z-index: 1000;
     top: 0;
     left: 0;
-
     margin: auto;
     background: transparent;
-
 }
 
 h1 {
@@ -346,4 +344,7 @@ span {
 .glyphicon-certificate img{
     width: auto;
     max-width: 100%;
+}
+.entry-content{
+    position: relative;
 }
