@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+
+<script>
+    function CreateObj() {
+        var name = "inner";
+        debugger
+        console.log(this.name);
+    }
+    var name = "outer";
+    CreateObj();
+    var f1 = new CreateObj();
+</script>
+</body>
+</html>
