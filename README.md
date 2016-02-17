@@ -1,0 +1,6 @@
+# richardresume.io
+Richardgong resume
+
+
+
+
