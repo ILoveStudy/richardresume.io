@@ -270,7 +270,6 @@ footer {
 .entry-content img {
     position: relative;
     zoom: 1;
-    max-width: 200px;
     overflow: hidden;
 }
 
