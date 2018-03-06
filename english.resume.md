@@ -8,7 +8,11 @@
 ##### (E): richardgong1987@qq.com
 ##### Gender: Man
 
-# Open source
+##### Github: https://github.com/richardgong1987
+##### NPM: https://www.npmjs.com/~richardgong1987
+##### Nodej s tutorial:  https://www.youtube.com/playlist?list=PLsdWTv8SAAr7_ufM68jgykoOc5WvK97kb
+##### MDN MOZILLA: https://developer.mozilla.org/en-US/profiles/richardgong1987
+
 
 
  
