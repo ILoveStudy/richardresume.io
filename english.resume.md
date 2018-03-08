@@ -12,6 +12,7 @@
 ##### Node.js tutorial:  https://www.youtube.com/playlist?list=PLsdWTv8SAAr7_ufM68jgykoOc5WvK97kb
 ##### MDN MOZILLA: https://developer.mozilla.org/en-US/profiles/richardgong1987
 
+![](./img/pic.jpeg)
 
 ## JOB OBJECTIVE
 To pursue a challenging and growth oriented career in a progressive organization and to enhance the level of my technical knowledge and ability to work in-group.
