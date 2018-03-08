@@ -1,3 +1,5 @@
 # richardresume.io
 
-my resume
+https://github.com/richardgong1987/
+
+https://github.com/ilovestudy
