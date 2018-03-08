@@ -16,13 +16,13 @@
 ## JOB OBJECTIVE
 To pursue a challenging and growth oriented career in a progressive organization and to enhance the level of my technical knowledge and ability to work in-group.
 
-TECHNICAL SKILLS
+#### TECHNICAL SKILLS:
 
 Programming Languages : Java (proficient), JavaScript (proficient)
 
 Operating Systems : Mac, Linux
 
-RDBMS : Oracle 10g / 11g, MYSQL
+RDBMS : MYSQL,Oracle 10g / 11g 
 
 Scripting Language :Linux Shell,JavaScript
 
@@ -163,6 +163,27 @@ Ex: Accordion, Spinner and Filters etc.
 
 
 Environment:Spring,Springmvc, Hibernate,JSP, Node.js, Zepto.js,Jquery.js,intelij Idea, Git
+
+ #### Argumturn LTD. March 2010 - March 2014
+ 
+ Client: SAP LTD. 
+ Project: SAP Software Outsourcing
+ Location: Shanghai,China
+ Role:Javascript Developer
+ 
+ Responsibilities:
+ 
+ Experience with jUnit and Jasmine in developing test cases and determining application functionality.
+ 
+ Created business logic to GET, POST, UPDATE and DELETE rest service operations.
+ 
+ Created factory methods to register with modules for the components.
+ 
+ Worked on JAX-RS to develop RESTful web service.
+ 
+ Consumed XML schema and developed the JSON schema and Web services for the data support and structures
+    
+ Environment: aptana, backbone.js,zepto.js, git
 
 ## EDUCATION
 
