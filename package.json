@@ -1,0 +1,23 @@
+{
+  "name": "richardresume.io",
+  "version": "1.0.0",
+  "description": "Richardgong resume http://ilovestudy.github.io/richardresume.io/",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ILoveStudy/richardresume.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ILoveStudy/richardresume.io/issues"
+  },
+  "homepage": "https://github.com/ILoveStudy/richardresume.io#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-markdown": "^2.0.1"
+  }
+}
