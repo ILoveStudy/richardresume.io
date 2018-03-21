@@ -4,6 +4,8 @@
 ##### (E): richardgong1987@qq.com
 ##### Gender: Man
 ##### Location: Shenzhen,China
+##### Relocation:Yes
+##### Need Visa sponsorship:Yes
 ##### Github: https://github.com/richardgong1987
 ##### NPM: https://www.npmjs.com/~richardgong1987
 ##### Node.js tutorial:  https://www.youtube.com/playlist?list=PLsdWTv8SAAr7_ufM68jgykoOc5WvK97kb
