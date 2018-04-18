@@ -3,7 +3,7 @@
 ##### (C): 0086-18566779714
 ##### (E): richardgong1987@qq.com
 ##### Gender: Man
-##### Location: Shenzhen,China
+##### Now Location: Manila,The Philippines
 ##### Relocation:Yes
 ##### Need Visa sponsorship:Yes
 ##### Github: https://github.com/richardgong1987
