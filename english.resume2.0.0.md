@@ -1,6 +1,6 @@
 # Richard Gong
 
-##### (C): ：+63 956 076 0574
+##### (C): +63 956 076 0574
 ##### (E): richardgong1987@qq.com
 ##### Gender: Man
 ##### Now Location: Manila,The Philippines
