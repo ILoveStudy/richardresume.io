@@ -106,7 +106,32 @@ Operating Systems: Mac, UNIX & Linux.
 
 ## WORK EXPERIENCE:
 
+####  Mar 2018 – now
+
+Client: anov network technology inc. 
+Project: Huidian e-commerce Applications
+Location: manila,The Philippines
+Role: Full stack developer
+Responsibilities:
+
+Involved in designing, developing and testing the single page web application by using the Spring,SpringMvc,Mybatis, Mysql, Redis,Solr
+
+Led and mentored an array of software developers to understand the requirements from the Features, Stories, and converted those into the code for Universal API of Project.
+
+Developed and deployed an application in production.
+
+Participated in different meetings such as Governance Calls and Ideation Meetings with Application Directors.
+
+Development Managers, Consultants, Team Leads to understand the delivery criticalness, priority, and guide the team accordingly.
+ 
+Actively participated in Sprint Planning, Daily Scrum Calls, Retrospectives, Code Reviews, etc.
+
+Environment:Springboot,Spring,Springmvc, Mybatis,Typescript,Ionic4.x Git, Restful services, intelij Idea, Jenkins
+
+
 #### 1. Jul 2017 – Feb 2018
+
+
 
 Client: Huidian network technology inc. 
 Project: Huidian e-commerce Applications
