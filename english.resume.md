@@ -109,7 +109,7 @@ Operating Systems: Mac, UNIX & Linux.
 ####  Mar 2018 – now
 
 Client: anov network technology inc. 
-Project: Huidian e-commerce Applications
+Project: anvo outsource Applications
 Location: manila,The Philippines
 Role: Full stack developer
 Responsibilities:
