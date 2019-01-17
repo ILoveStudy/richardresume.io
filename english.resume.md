@@ -29,11 +29,11 @@ RDBMS : MYSQL,Oracle 10g / 11g
 
 Scripting Language :Linux Shell,JavaScript
 
-Web Technologies : Springboot,Springmvc,Spring,Mybatis,Hibernate,Ionic3.x,Angular5
+Web Technologies : Springboot,Springmvc,Spring,Mybatis,Hibernate,ionic4.x,Angular8
 
 Web Services : Spring based MicroService and Restful web-services
 
-Framework : SpringCloud, Springboot, Springmvc,Ionic3.x,Angular5, Reactjs
+Framework : SpringCloud, Springboot, Springmvc,ionic4.x,Angular8, vur3.2
 
 IDE/Tools : Intelij Idea, Datagrip,Webstorm
 
@@ -48,7 +48,7 @@ Other Tools :Git, SVN, TFS
 
 Over 5 years of software development experience in design, development, and implementation of diverse applications using Java ecosystem / JEE technologies, Express,Koa,loopback/node.js ecosystem;
 
-Around 3 years of Experience as a User Interface/Front End Developer in developing web applications using typescript/es5/es6,Ionic3.x,HTML5, Angular5 CSS3, jQuery, Angular5;
+Around 3 years of Experience as a User Interface/Front End Developer in developing web applications using typescript/es5/es6,ionic4.x,HTML5, Angular8 CSS3, jQuery, Angular8;
 
 Expertise in fundamental of JAVA,Javascript,node.js concepts;
 
@@ -76,7 +76,7 @@ Good exposure on working with MySQL, Oracle, SQL and NoSQL databases.
 
 Worked on creating stored procedures using SQL and good knowledge on SSRS and SSIS packages.
 
-Good experience on working with ionic3.x React js ,and angular 5.
+Good experience on working with ionic4.x React js ,and angular 8.
 
 
 ## TECHNICAL SKILLS:
@@ -84,7 +84,7 @@ Good experience on working with ionic3.x React js ,and angular 5.
 ##### Programming Languages & Frameworks:
 
 Java, Spring,springboot, Hibernate, Mybatis 
-micro services, Criteria, JUnit, typescript,es6/7, JavaScript, ionic3.x, Express,KOA & Node.JS.HTML5, CSS3, jQuery,
+micro services, Criteria, JUnit, typescript,es6/7, JavaScript, ionic4.x, Express,KOA & Node.JS.HTML5, CSS3, jQuery,
 
 #### Tools & Methodologies:
 
@@ -126,7 +126,7 @@ Development Managers, Consultants, Team Leads to understand the delivery critica
  
 Actively participated in Sprint Planning, Daily Scrum Calls, Retrospectives, Code Reviews, etc.
 
-Environment:Springboot,Spring,Springmvc, Mybatis,Typescript,Ionic4.x Git, Restful services, intelij Idea, Jenkins
+Environment:Springboot,Spring,Springmvc, Mybatis,Typescript,Ionic4.x,angular 8, vue 3.2, Git, Restful services, intelij Idea, Jenkins
 
 
 #### 1. Jul 2017 – Feb 2018
@@ -150,7 +150,7 @@ Development Managers, Consultants, Team Leads to understand the delivery critica
  
 Actively participated in Sprint Planning, Daily Scrum Calls, Retrospectives, Code Reviews, etc.
 
-Environment:Springboot,Spring,Springmvc, Mybatis,Typescript,Ionic3.x Git, Restful services, intelij Idea, Jenkins, Swagger
+Environment:Springboot,Spring,Springmvc, Mybatis,Typescript,ionic4.x Git, Restful services, intelij Idea, Jenkins, Swagger
  
 
 ####  Philippine SurLead LTD. Mar. 2015 – Jun. 2017 

@@ -1,6 +1,6 @@
 # Richard Gong
 
-##### (C): +63 956 076 0574
+##### (C): +86  18566779714
 ##### (E): richardgong1987@qq.com
 ##### Gender: Man
 ##### Now Location: Manila,The Philippines
@@ -43,7 +43,7 @@ Other Tools :Git, SVN, TFS
 
 ## PROFILE SUMMARY
 
-Over 5 years of software development experience in design, development, and implementation of diverse applications using Java ecosystem / JEE technologies, Express,Koa,loopback/node.js ecosystem;
+Over 6 years of software development experience in design, development, and implementation of diverse applications using Java ecosystem / JEE technologies, Express,Koa,loopback/node.js ecosystem;
 
 Around 3 years of Experience as a User Interface/Front End Developer in developing web applications using typescript/es5/es6,Ionic3.x,HTML5, Angular5 CSS3, jQuery, Angular5;
 
@@ -81,7 +81,7 @@ Good experience on working with ionic3.x React js ,and angular 5.
 ##### Programming Languages & Frameworks:
 
 Java, Spring,springboot, Hibernate, Mybatis 
-micro services, Criteria, JUnit, typescript,es6/7, JavaScript, ionic3.x, Express,KOA & Node.JS.HTML5, CSS3, jQuery,
+micro services, Criteria, JUnit, typescript,es6/7, JavaScript, ionic4.x, Express,KOA & Node.JS.HTML5, CSS3, jQuery,
 
 #### Tools & Methodologies:
 
