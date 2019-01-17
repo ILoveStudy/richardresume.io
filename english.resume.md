@@ -33,7 +33,7 @@ Web Technologies : Springboot,Springmvc,Spring,Mybatis,Hibernate,ionic4.x,Angula
 
 Web Services : Spring based MicroService and Restful web-services
 
-Framework : SpringCloud, Springboot, Springmvc,ionic4.x,Angular8, vur3.2
+Framework : SpringCloud, Springboot, Springmvc,ionic4.x,Angular8, vue3.2
 
 IDE/Tools : Intelij Idea, Datagrip,Webstorm
 
@@ -106,32 +106,8 @@ Operating Systems: Mac, UNIX & Linux.
 
 ## WORK EXPERIENCE:
 
-####  Mar 2018 – now
-
-Client: anov network technology inc. 
-Project: anvo outsource Applications
-Location: manila,The Philippines
-Role: Full stack developer
-Responsibilities:
-
-Involved in designing, developing and testing the single page web application by using the Spring,SpringMvc,Mybatis, Mysql, Redis,Solr
-
-Led and mentored an array of software developers to understand the requirements from the Features, Stories, and converted those into the code for Universal API of Project.
-
-Developed and deployed an application in production.
-
-Participated in different meetings such as Governance Calls and Ideation Meetings with Application Directors.
-
-Development Managers, Consultants, Team Leads to understand the delivery criticalness, priority, and guide the team accordingly.
- 
-Actively participated in Sprint Planning, Daily Scrum Calls, Retrospectives, Code Reviews, etc.
-
-Environment:Springboot,Spring,Springmvc, Mybatis,Typescript,Ionic4.x,angular 8, vue 3.2, Git, Restful services, intelij Idea, Jenkins
-
 
 #### 1. Jul 2017 – Feb 2018
-
-
 
 Client: Huidian network technology inc. 
 Project: Huidian e-commerce Applications
@@ -173,7 +149,7 @@ Design and implement the SEARCH ENGINE for customers; Handle the maintenance aft
 
 Environment:Springboot,Spring , Springmvc, Hibernate,Typescript,Node.js, loopback, Koa,Express,intelij Idea, Git
 
-#### Alibaba.net LTD. Apr 2014 - March 2015
+#### Alibaba.net LTD. April 2014 - Feb 2015-2
 
 Client: Alibaba.net LTD. 
 Project: Alipay applictions
@@ -192,7 +168,24 @@ Ex: Accordion, Spinner and Filters etc.
 
 Environment:Spring,Springmvc, Hibernate,JSP, Node.js, Zepto.js,Jquery.js,intelij Idea, Git
 
- #### Argumturn LTD. March 2010 - March 2014
+
+### June 2013 - May 2014 Ctrip LTD 
+
+Client: Ctrip.net LTD. 
+Project: Ctrip applictions
+Location: Shanghai,China
+Role:Full stack Developer
+
+Responsibilities:
+
+Performed code reviews, knowledge sharing, and mentored new joiners to the team.
+
+Developing the Single page Web Applications  using node.js,express , Backbone.js,zepto.js,jquery.ui.js
+
+
+
+
+ #### Argumturn LTD. March 2010 - March 2013
  
  Client: SAP LTD. 
  Project: SAP Software Outsourcing
