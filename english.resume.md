@@ -110,10 +110,10 @@ Operating Systems: Mac, UNIX & Linux.
 #### 1. Jul 2017 – now
 
 ### freelance work
-Client: Huidian network technology inc. 
-Project: Huidian e-commerce Applications
+Client: remote jobs. 
+Project:  e-commerce Applications,html5 games
 Location: Shenzhen,China
-Role: Senior Java Developer
+Role: Senior Java Developer,node.js developer
 Responsibilities:
 Involved in designing, developing and testing the single page web application by using the Spring,SpringMvc,Mybatis, Mysql, Redis,Solr
 
