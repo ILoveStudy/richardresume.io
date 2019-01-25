@@ -107,8 +107,9 @@ Operating Systems: Mac, UNIX & Linux.
 ## WORK EXPERIENCE:
 
 
-#### 1. Jul 2017 – Feb 2018
+#### 1. Jul 2017 – now
 
+### freelance work
 Client: Huidian network technology inc. 
 Project: Huidian e-commerce Applications
 Location: Shenzhen,China
