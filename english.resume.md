@@ -6,7 +6,7 @@
 ##### (C): 0086-18566779714
 ##### (E): richardgong1987@qq.com
 ##### Gender: Man
-##### Now Location: Manila,The Philippines
+##### Now Location: Shenzhen,china
 ##### Relocation:Yes
 ##### Need Visa sponsorship:Yes
 ##### Github: https://github.com/richardgong1987
@@ -107,7 +107,30 @@ Operating Systems: Mac, UNIX & Linux.
 ## WORK EXPERIENCE:
 
 
-#### 1. Jul 2017 – now
+####  2019.2 – now
+
+Client: . 
+Project:  payment 4 side
+Location: Shenzhen,China
+Role: CTO
+Responsibilities:
+
+Involved in designing, developing and testing the single page web application by using the Spring,SpringMvc,Mybatis, Mysql, Redis,Solr
+
+Led and mentored an array of software developers to understand the requirements from the Features, Stories, and converted those into the code for Universal API of Project.
+
+Developed and deployed an application in production.
+
+Participated in different meetings such as Governance Calls and Ideation Meetings with Application Directors.
+
+Development Managers, Consultants, Team Leads to understand the delivery criticalness, priority, and guide the team accordingly.
+ 
+Actively participated in Sprint Planning, Daily Scrum Calls, Retrospectives, Code Reviews, etc.
+
+Environment:Springboot,Spring,Springmvc, Mybatis,Typescript,ionic4.x Git, docker
+
+
+####  Jul 2017 – 2019.2
 
 ### freelance work
 Client: remote jobs. 
