@@ -109,7 +109,7 @@ Operating Systems: Mac, UNIX & Linux.
 
 ####  2019.2 – now
 
-Client: . 
+Client: yiyifu payment inc.
 Project:  payment 4 side
 Location: Shenzhen,China
 Role: CTO
