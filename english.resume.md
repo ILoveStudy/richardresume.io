@@ -3,16 +3,13 @@
 ##### Religion: Buddhism
 ##### Birthday: 1987.09.06
 ##### Gender: Man
-##### (C): 0086-18566779714
+##### (C): +63 956 134 9433
 ##### (E): richardgong1987@qq.com
 ##### Gender: Man
 ##### Now Location: Shenzhen,china
 ##### Relocation:Yes
 ##### Need Visa sponsorship:Yes
 ##### Github: https://github.com/richardgong1987
-##### NPM: https://www.npmjs.com/~richardgong1987
-##### Node.js tutorial:  https://www.youtube.com/playlist?list=PLsdWTv8SAAr7_ufM68jgykoOc5WvK97kb
-##### MDN MOZILLA: https://developer.mozilla.org/en-US/profiles/richardgong1987
 
 ![](./img/pic.jpeg)
 
@@ -29,7 +26,7 @@ RDBMS : MYSQL,Oracle 10g / 11g
 
 Scripting Language :Linux Shell,JavaScript
 
-Web Technologies : Springboot,Springmvc,Spring,Mybatis,Hibernate,ionic4.x,Angular8
+Web Technologies : Springboot,Springmvc,Eureka, Ribbon,Hystrix,Spring Cloud Config,Mybatis,Hibernate,ionic4.x,Angular8
 
 Web Services : Spring based MicroService and Restful web-services
 
@@ -46,7 +43,7 @@ Other Tools :Git, SVN, TFS
 
 ## PROFILE SUMMARY
 
-Over 5 years of software development experience in design, development, and implementation of diverse applications using Java ecosystem / JEE technologies, Express,Koa,loopback/node.js ecosystem;
+Over 10 years of software development experience in design, development, and implementation of diverse applications using Java ecosystem / JEE technologies,Eureka, Ribbon,Hystrix,Spring Cloud Config, Express,Koa,loopback/node.js ecosystem;
 
 Around 3 years of Experience as a User Interface/Front End Developer in developing web applications using typescript/es5/es6,ionic4.x,HTML5, Angular8 CSS3, jQuery, Angular8;
 
@@ -83,23 +80,22 @@ Good experience on working with ionic4.x React js ,and angular 8.
 
 ##### Programming Languages & Frameworks:
 
-Java, Spring,springboot, Hibernate, Mybatis 
+Java,Eureka, Ribbon,Hystrix,Spring Cloud Config, Spring,springboot, Hibernate, Mybatis 
 micro services, Criteria, JUnit, typescript,es6/7, JavaScript, ionic4.x, Express,KOA & Node.JS.HTML5, CSS3, jQuery,
 
 #### Tools & Methodologies:
 
-Maven,gradle, SoapUI, Atlassian products such as JIRA, Bamboo, Crucible, Confluence & Bitbucket, 
-Heroku, Jenkins, SonarQube, Putty, intelij idea, Agile, TDD, etc. 
+Maven,gradle, SoapUI, Atlassian products such as JIRA, Confluence & Bitbucket, , intelij idea, TDD, etc. 
 
 #### Servers: 
-WebLogic, Tomcat, Nginx & JBoss, jetty.  node.js;
+docker,docker-compose,
+Tomcat, Nginx  jetty.  node.js;
 
 #### Version Controls: 
-Git, SVN, TFS;
+Git
 
 #### Databases: 
-
-Oracle, MySQL,redis, mangodb.
+Oracle, MySQL,redis
 
 Operating Systems: Mac, UNIX & Linux.
 
@@ -109,13 +105,13 @@ Operating Systems: Mac, UNIX & Linux.
 
 ####  2019.2 – now
 
-Client: yiyifu payment inc.
+Client: The Philippines  payment inc.
 Project:  payment 4 side
-Location: Shenzhen,China
-Role: CTO
+Location: The Philippines
+Role: Senior JAVA
 Responsibilities:
 
-Involved in designing, developing and testing the single page web application by using the Spring,SpringMvc,Mybatis, Mysql, Redis,Solr
+Involved in designing, developing and testing the single page web application by using the Springcloud,Eureka, Ribbon,Hystrix,Spring Cloud Config,SpringMvc,Mybatis, Mysql, Redis,Solr
 
 Led and mentored an array of software developers to understand the requirements from the Features, Stories, and converted those into the code for Universal API of Project.
 
@@ -127,7 +123,6 @@ Development Managers, Consultants, Team Leads to understand the delivery critica
  
 Actively participated in Sprint Planning, Daily Scrum Calls, Retrospectives, Code Reviews, etc.
 
-Environment:Springboot,Spring,Springmvc, Mybatis,Typescript,ionic4.x Git, docker
 
 
 ####  Jul 2017 – 2019.2
@@ -173,27 +168,8 @@ Design and implement the SEARCH ENGINE for customers; Handle the maintenance aft
 
 Environment:Springboot,Spring , Springmvc, Hibernate,Typescript,Node.js, loopback, Koa,Express,intelij Idea, Git
 
-#### Alibaba.net LTD. April 2014 - Feb 2015-2
 
-Client: Alibaba.net LTD. 
-Project: Alipay applictions
-Location: Shanghai,China
-Role:Java Full stack Developer
-
-Responsibilities:
-
-Performed code reviews, knowledge sharing, and mentored new joiners to the team.
-
-Developing the Single page Web Applications (SPA) using Spring,springMVC,Hibernate, Backbone.js,zepto.js,jquery.ui.js
-
-Created reusable components (custom directives) to be shared among the application in different places instead of rewriting code again. 
-Ex: Accordion, Spinner and Filters etc.
-
-
-Environment:Spring,Springmvc, Hibernate,JSP, Node.js, Zepto.js,Jquery.js,intelij Idea, Git
-
-
-### June 2013 - May 2014 Ctrip LTD 
+### March 2010  - May 2014 Feb 2015-2 Ctrip LTD 
 
 Client: Ctrip.net LTD. 
 Project: Ctrip applictions
@@ -204,31 +180,8 @@ Responsibilities:
 
 Performed code reviews, knowledge sharing, and mentored new joiners to the team.
 
-Developing the Single page Web Applications  using node.js,express , Backbone.js,zepto.js,jquery.ui.js
+Developing the Single page Web Applications  using java springmvc,  node.js,express , Backbone.js,zepto.js,jquery.ui.js
 
-
-
-
- #### Argumturn LTD. March 2010 - March 2013
- 
- Client: SAP LTD. 
- Project: SAP Software Outsourcing
- Location: Shanghai,China
- Role:Javascript Developer
- 
- Responsibilities:
- 
- Experience with jUnit and Jasmine in developing test cases and determining application functionality.
- 
- Created business logic to GET, POST, UPDATE and DELETE rest service operations.
- 
- Created factory methods to register with modules for the components.
- 
- Worked on JAX-RS to develop RESTful web service.
- 
- Consumed XML schema and developed the JSON schema and Web services for the data support and structures
-    
- Environment: aptana, backbone.js,zepto.js, git
 
 ## EDUCATION
 
@@ -244,12 +197,6 @@ College degree of Humanities and Social Sciences
 http://www.lead-surf.com/
 
 http://m.ctrip.com/html5/
-
-https://www.alipay.com/
-
-http://www.vlinkage.com/
-
-http://www.gac-toyota.com.cn/
 
 ... etc ...
 
