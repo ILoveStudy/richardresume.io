@@ -3,4 +3,3 @@
 
 ## [Chinese resume](./richard.chinese.resume.html)
 
-## [Chinese resume2](os.html)
