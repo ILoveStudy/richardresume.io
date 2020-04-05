@@ -181,6 +181,15 @@
 
 ## java知识面
 
+###   java基础
+
+- 熟悉java反向机制
+
+- 熟悉动态代理机制
+- 熟悉servlet
+
+
+
 ###    JVM性能调优:
 
 ​       了解JVM如下核心技术    
@@ -228,9 +237,23 @@
 
 
 
+### 熟悉基于Springcloud的微服务架构
+
+```
+熟悉注册中心产品,如eurake,zookeeper,consul,Nacos的配置,了解各种注册中心产品的优缺点,并了解其源码与原理
+
+熟悉feign声明式调用组件,熟悉熔断组件的应用,如hystrix,sentinel熔断的配置与应用,和,Ribbon负载均衡的使用,并了解其源码与原理
+
+熟悉微服务网关产品组件应用,如:zuul,springcloud gateway的配置与使用.Zipkin+Sleuth,Skywalking链路追踪技术,并了解其源码与原理
+
+熟悉消息中间件处理如Kafka,RocketMQ集群搭建与应用.
+
+熟悉分布式配置中心组件应用,如:apollo,springcloud config 
+```
+
 ## node.js知识面
 
-###    V8调优
+###    了解V8调优
 
 
 
