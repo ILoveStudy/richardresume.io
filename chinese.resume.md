@@ -1,5 +1,5 @@
 <style>
-  @media print {}{
+  @media print {
    footer,header,.tagline,.download-bar,.current-section,.__transltor{
     display: none;
    }
