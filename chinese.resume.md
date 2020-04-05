@@ -115,13 +115,21 @@
 - 熟悉各种服务架构的设计
 - 理解各种服务架构的优点和缺点
 
+## SQL知识面
+
+- 熟悉使用MYSQL,ORACLE数据库产品
+- 熟练SQL业务表设计
+- 熟悉SQL的增删改查的应用
+- 对Mysql性能调优有一定的经验
+- 对数据库高并发架构设计有一定的了解.
+
 
 
 ## 互联网工具知识面
 
 - Git
 
-  - 熟悉Gitlab服务端快速搭建
+  - 熟悉Gitlab/gitolite服务端快速搭建
 
   - 熟悉Git的核心命令
 
@@ -244,7 +252,7 @@
 
 熟悉feign声明式调用组件,熟悉熔断组件的应用,如hystrix,sentinel熔断的配置与应用,和,Ribbon负载均衡的使用,并了解其源码与原理
 
-熟悉微服务网关产品组件应用,如:zuul,springcloud gateway的配置与使用.Zipkin+Sleuth,Skywalking链路追踪技术,并了解其源码与原理
+熟悉微服务网关产品组件应用,如:zuul,springcloud gateway的配置与使用.Zipkin+Sleuth,skywalking链路追踪技术,并了解其源码与原理
 
 熟悉消息中间件处理如Kafka,RocketMQ集群搭建与应用.
 
@@ -283,6 +291,7 @@
   - yoman
 
   - npm
+  - Gulp
 
 ## 前端知识面
 
@@ -307,3 +316,28 @@
 - 熟悉多种admin template模板应用
 - 熟悉多种前端ui框架,如:elementUI, bootstrap,ionic5.x UI, electron原生桌面应用
 
+
+
+
+
+# 工作经验:
+
+### 2019-2-至今，VD软件解决方案公司
+
+```
+职位:java开发负责人
+
+技术栈:springcloud微服务系列组件  数据库:mysql  分布式缓存:redis-cluster  日志系统:logback 日志管理:greylog 链路追踪:skywalking 
+
+业绩: 每个月需要完成一个项目,每个月基本都能提前完成任务,并bug量较少. 绩效:A
+
+工作内容:
+每月技术分享
+项目技术选型
+项目技术底层实现
+领带下属完成工作任务
+项目集成和发布
+向CTO汇报,分派下属工作.项目管理 
+协助其它人员解决疑难问题
+
+```
