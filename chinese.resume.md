@@ -1,5 +1,5 @@
 <style>
-@media print {}{
+  @media print {}{
    footer,header,.tagline,.download-bar,.current-section,.__transltor{
     display: none;
    }
@@ -92,6 +92,7 @@
      4.了解基于Kafka的大规模日志系统实现原理          
 
 - 熟悉的分布式储存中间件:
+  
   -  Redis方面:
 
 ​            1.了解Redis Cluster集群架构和部署
