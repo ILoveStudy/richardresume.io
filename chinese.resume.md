@@ -251,11 +251,59 @@
 熟悉分布式配置中心组件应用,如:apollo,springcloud config 
 ```
 
+
+
 ## node.js知识面
 
-###    了解V8调优
+### 了解V8诊断
 
+- 对v8引擎有一点的诊断经验
 
+### Javascript/typescript基础
+
+- 精通ES6/7,typescript语法体系熟悉以及应用的各种细节。
+- 精通typescript,ES6/ES7面向对象编程
+
+### node.js服务框架
+
+- 熟悉使用nestjs架构,搭建node.js服务端开发
+
+- 熟悉socket.io搭建websocket及时通应用
+
+- 精通express.js, loopback.js服务端框架框架,并对精通其源码和原理
+
+- 熟悉基于node.js生态圈工具,如:
+
+  - java的快速开发平台jhipster
+
+  - Webpack
+
+  - rollup
+
+  - yoman
+
+  - npm
 
 ## 前端知识面
+
+### 前端基础:
+
+- 精通DOM接口
+- 精通css3,css4
+- 精通客户端javascript
+- 精通桌面应用开发,如:window下的exe应用开发.
+
+### 前端框架:
+
+- 精通基于angular 9+lvy的mvvm应用开发
+- 精通vue3.0以上的应用开发
+- 精通jquery的应用
+- 精通基于ionic5.x移动端开发
+- 熟悉基于codova的半原生式开发
+
+### 前端生态:
+
+- 熟悉各种前端npm生态包
+- 熟悉多种admin template模板应用
+- 熟悉多种前端ui框架,如:elementUI, bootstrap,ionic5.x UI, electron原生桌面应用
 
