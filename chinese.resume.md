@@ -53,14 +53,9 @@
 -   了解常见设计模式
 
   - 设计原则:
-
-    开闭、单一职责及里氏替换原则
-
-     依赖倒置、接口隔离、合成复用原则
-
-     迪米特法则
-
-    
+    1. 开闭、单一职责及里氏替换原则
+    2.  依赖倒置、接口隔离、合成复用原则
+    3. 迪米特法则
 
   - 创建型模式:单例模式
 
@@ -74,25 +69,24 @@
 
 - 熟练的分布式消息中间件:
 
-​        RocketMq方面:
+  -   RocketMq方面:
 
-​           1.了解RocketMq模块划分与集群原理
+    1.了解RocketMq模块划分与集群原理
 
-​           2.了解普通消息、顺序消息、事务消息、定时消息
+     2.了解普通消息、顺序消息、事务消息、定时消息
 
-​       Kafka方面:
+  -  Kafka方面:
 
-​          1.了解Kafka集群搭建与使用
+    1.了解Kafka集群搭建与使用
 
-​          2.了解Kafka副本机制与选举原理
+     2.了解Kafka副本机制与选举原理
 
-​          3.了解Kafka架构设计原理
+     3.了解Kafka架构设计原理
 
-​          4.了解基于Kafka的大规模日志系统实现原理
+     4.了解基于Kafka的大规模日志系统实现原理          
 
 - 熟悉的分布式储存中间件:
-
-​          Redis方面:
+  -  Redis方面:
 
 ​            1.了解Redis Cluster集群架构和部署
 
@@ -106,15 +100,14 @@
 
   -  Zookeeper方面:
 
-  ​          熟悉zookeeper配置与应用
+    - 熟悉zookeeper配置与应用
 
-  ​         了解zookeeper原理与源码
+    - 了解zookeeper原理与源码
 
   - Consul方面: 
+    - 了解Consul
 
-  ​        了解Consul
-
-
+  ​      
 
 ## 微服务知识面
 
@@ -128,61 +121,55 @@
 
 - Git
 
-  熟悉Gitlab服务端快速搭建
+  - 熟悉Gitlab服务端快速搭建
 
-  熟悉Git的核心命令
+  - 熟悉Git的核心命令
 
-  多年Git企业应用实践
+  - 多年Git企业应用实践
 
-  熟悉git工作流
+  - 熟悉git工作流
 
 - Maven
 
-  理解Maven生命周期
+  - 理解Maven生命周期
 
-  了解Maven插件体系
+  - 了解Maven插件体系
 
-  熟悉Maven核心命令
+  - 熟悉Maven核心命令
 
-  熟悉Maven的pom配置体系
+  - 熟悉Maven的pom配置体系
 
 - Jenkins
 
-  了解整体Jenkins体系结构
+  - 了解整体Jenkins体系结构
 
-  熟悉Jenkins做持续集成
+  - 熟悉Jenkins做持续集成
 
-  熟悉Jenkins插件体系
-
-  
+  - 熟悉Jenkins插件体系
 
 - Linux
 
-  熟悉Linux运维常用命令
+  - 熟悉Linux运维常用命令
 
-  了解Linux用户与权限
+  - 了解Linux用户与权限
 
-  熟悉Shell脚本编程
-
-  
+  - 熟悉Shell脚本编程
 
 - 虚拟容器
 
   - docker方面:
 
-     熟悉DockerFile使用
+    -  熟悉DockerFile使用
 
-      熟悉DockerCompose集成式应用组合
+    -   熟悉DockerCompose集成式应用组合
 
-      了解Docker服务编排实现
+    -   了解Docker服务编排实现
 
   - Kubernetes
 
-    了解Kubernetes生产集群环境搭建与使用
+    - 了解Kubernetes生产集群环境搭建与使用
 
-  ​        
-
-
+     
 
 ## 项目经验实践总结:
 
@@ -191,8 +178,6 @@
 - 分布式调用链平台
 
   
-
-
 
 ## java知识面
 
