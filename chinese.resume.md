@@ -101,11 +101,85 @@
 
 - 熟悉的分布式框架:
 
-   Zookeeper
+  -  Zookeeper方面:
 
-  Consul
+  ​          熟悉zookeeper配置与应用
+
+  ​         了解zookeeper原理与源码
+
+  - Consul方面: 
+
+  ​        了解Consul
+
+
+
+## 微服务知识面
+
+-  熟悉服务架构变迁史
+- 熟悉各种服务架构的设计
+- 理解各种服务架构的优点和缺点
+
+
+
+## 互联网工具知识面
+
+- Git
+
+  熟悉Gitlab服务端快速搭建
+
+  熟悉Git的核心命令
+
+  多年Git企业应用实践
+
+  熟悉git工作流
+
+- Maven
+
+  理解Maven生命周期
+
+  了解Maven插件体系
+
+  熟悉Maven核心命令
+
+  熟悉Maven的pom配置体系
+
+- Jenkins
+
+  了解整体Jenkins体系结构
+
+  熟悉Jenkins做持续集成
+
+  熟悉Jenkins插件体系
 
   
+
+- Linux
+
+  熟悉Linux运维常用命令
+
+  了解Linux用户与权限
+
+  熟悉Shell脚本编程
+
+  
+
+- 虚拟容器
+
+  - docker方面:
+
+     熟悉DockerFile使用
+
+      熟悉DockerCompose集成式应用组合
+
+      了解Docker服务编排实现
+
+  - Kubernetes
+
+    了解Kubernetes生产集群环境搭建与使用
+
+  ​        
+
+  ​	
 
 ## java知识面
 
@@ -153,8 +227,6 @@
 - 了解Spring 5新特性
 
 -  了解ORM框架MyBatis源码与原理
-
-
 
 
 
