@@ -187,8 +187,7 @@
 
 - 熟悉动态代理机制
 - 熟悉servlet
-
-
+- 熟悉JDK tools的使用
 
 ###    JVM性能调优:
 
@@ -234,6 +233,7 @@
 - 了解Spring 5新特性
 
 -  了解ORM框架MyBatis源码与原理
+- 了解Spring事务隔离,传播
 
 
 
