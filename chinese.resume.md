@@ -1,4 +1,10 @@
-
+<style>
+@media print {}{
+   footer,header,.tagline,.download-bar,.current-section,.__transltor{
+    display: none;
+   }
+  }
+</style>
 
 # Oswald简历
 
