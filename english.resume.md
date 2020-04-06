@@ -1,6 +1,6 @@
 # Oswald Resume
 
-## personal information:
+## Personal information:
 
 - Mobile number: +63 9770250446
 - Sex: Male
@@ -17,44 +17,49 @@
 
 ### Algorithms and data structures
 
-- Familiar with basic data structures and algorithms.
-  - Algorithm complexity analysis
-  - Linear table, linked list data structure
-  - Queue, stack junction data structure
-  - Basic sorting algorithm
-  - Quicksort and merge sort
-  - Binary search, hash table
-  - Tree, basic concept, binary tree (traversal)
-- Understand the principle of thread pool
-  - Understand how threads work
-  - Custom thread pool
-- Understand common design patterns
-- Design Principles:
-  1. Open and Close, Single Responsibility and Richter Substitution Principle
-  2. Relies on the principles of inversion, interface isolation, and composite reuse
-  3. Dimit's Law
+Familiar with basic data structures and algorithms. For example:
+
+- Algorithm complexity analysis
+- Linear table, linked list data structure
+- Queue, stack junction data structure
+- Basic sorting algorithm
+- Quicksort and merge sort
+- Binary search, hash table
+- Tree, basic concept, binary tree (traversal)
+
+### Understand the principle of thread pool
+
+- Understand how threads work
+- Custom thread pool
+
+### Understand common design patterns and principles
+
+#### Design Principles:
+
+1. Open and Close, Single Responsibility and Richter Substitution Principle
+2. Relies on the principles of inversion, interface isolation, and composite reuse
+3. Dimit's Law
+
+#### Design Patterns:
+
 - Create mode: singleton mode
-  - Structural mode: proxy mode
+- Structural mode: proxy mode
 - Behavioral patterns: template methods, strategies, and observer patterns
 
 ## Knowledge of distributed framework
 
 ### Skilled distributed messaging middleware:
 
-- RocketMq:
+#### RocketMq:
 
-1. Understand RocketMq module division and clustering principles
-
+1. Understand the principles of RocketMq module division and clustering
 2. Understand common messages, sequential messages, transaction messages, timing messages
 
-- Kafka:
+#### Kafka:
 
-1. Understand Kafka cluster construction and use
-
-2. Understand Kafka copy mechanism and election principle
-
+1. Understand Kafka cluster setup and use
+2. Understand the Kafka copy mechanism and election principles
 3. Understand Kafka architecture design principles
-
 4. Understand the implementation principle of Kafka-based large-scale log system
 
 ### Familiar distributed storage middleware:
@@ -62,18 +67,19 @@
 #### Redis:
 
 1. Understand Redis Cluster cluster architecture and deployment
-
 2. Understand Redis cache penetration, cache invalidation, cache avalanche
-
 3. Familiar with various data structures of redis and use them skillfully in the project
 
 #### Familiar distributed framework:
 
-- Zookeeper:
+##### Zookeeper:
+
 - Familiar with zookeeper configuration and application
 - Understand the principle and source code of zookeeper
-- Consul:
-  - Understanding Consul
+
+##### Consul:
+
+- Understanding Consul
 
 
 
@@ -93,31 +99,43 @@
 
 ## Internet tools knowledge
 
-- Git
-  - Familiar with Gitlab / gitolite server build quickly
-  - Familiar with Git's core commands
-  - Git enterprise application practice for many years
-  - Familiar with git workflow
-- Maven
-  - Understand the Maven life cycle
-  - Understand the Maven plugin system
-  - Familiar with Maven core commands
-  - Familiar with Maven's pom configuration system
-- Jenkins
-  - Understand the overall Jenkins architecture
-  - Familiar with Jenkins for continuous integration
-  - Familiar with Jenkins plug-in system
-- Linux
-  - Familiar with common commands of Linux operation and maintenance
-  - Understand Linux users and permissions
-  - Familiar with Shell script programming
-- Virtual container
-  - On the docker side:
-    - Familiar with the use of DockerFile
-    - Familiar with DockerCompose integrated application portfolio
-    - Understand Docker service orchestration implementation
-  - Kubernetes
-    - Understand the construction and use of Kubernetes production cluster environment
+### Git
+
+- Familiar with Gitlab / gitolite server build quickly
+- Familiar with Git's core commands
+- Git enterprise application practice for many years
+- Familiar with git workflow
+
+### Maven
+
+- Understand the Maven life cycle
+- Understand the Maven plugin system
+- Familiar with Maven core commands
+- Familiar with Maven's pom configuration system
+
+### Jenkins
+
+- Understand the overall Jenkins architecture
+- Familiar with Jenkins for continuous integration
+- Familiar with Jenkins plug-in system
+
+### Linux
+
+- Familiar with common commands of Linux operation and maintenance
+- Understand Linux users and permissions
+- Familiar with Shell script programming
+
+### Virtual container
+
+##### On the docker side:
+
+- Familiar with the use of DockerFile
+- Familiar with DockerCompose integrated application portfolio
+- Understand Docker service orchestration implementation
+
+##### Kubernetes:
+
+- Understand the construction and use of Kubernetes production cluster environment
 
 ## Summary of project experience and practice:
 
