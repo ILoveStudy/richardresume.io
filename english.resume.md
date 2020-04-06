@@ -12,7 +12,7 @@
 
 - Important open source project: https://github.com/richardgong1987/RuoYi-baby
 
-- Expected position: java, node.js engineer
+- Desired position: java, node.js architect direction
 
 - Software development experience: 10 years +
 
