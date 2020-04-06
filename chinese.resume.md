@@ -13,13 +13,14 @@
 
 - 重要开源项目:https://github.com/richardgong1987/RuoYi-baby
 
-- 期望职位： java,node.js工程师
+- 期望职位： java,node.js架构师方向
 
 - 软件开发经验:10年+
 
-- 期望薪资：30+K
+  
 
   
+
 
 # 专业能力介绍
 
