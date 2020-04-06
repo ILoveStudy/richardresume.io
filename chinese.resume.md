@@ -59,42 +59,46 @@
 
 ### 熟练的分布式消息中间件:
 
--   RocketMq方面:
+#### RocketMq方面:
 
-  1.了解RocketMq模块划分与集群原理
+1. 了解RocketMq模块划分与集群原理
 
-  2.了解普通消息、顺序消息、事务消息、定时消息
+2. 了解普通消息、顺序消息、事务消息、定时消息
 
--  Kafka方面:
 
-  1.了解Kafka集群搭建与使用
 
-  2.了解Kafka副本机制与选举原理
+#### Kafka方面:
 
-  3.了解Kafka架构设计原理
+1. 了解Kafka集群搭建与使用
+2. 了解Kafka副本机制与选举原理
+3. 了解Kafka架构设计原理
 
-  4.了解基于Kafka的大规模日志系统实现原理  
+4. 了解基于Kafka的大规模日志系统实现原理  
+
+
 
 ### 熟悉的分布式储存中间件:
 
 #### Redis方面:
 
-1.了解Redis Cluster集群架构和部署
+1. 了解Redis Cluster集群架构和部署
 
-2.了解Redis缓存穿透，缓存失效，缓存雪崩
+2. 了解Redis缓存穿透，缓存失效，缓存雪崩
 
-3.熟悉redis各种数据结构,并熟练的使用在项目中     
+3. 熟悉redis各种数据结构,并熟练的使用在项目中     
+
 
 #### 熟悉的分布式框架:
 
--  Zookeeper方面:
+##### Zookeeper方面:
 
-  - 熟悉zookeeper配置与应用
+- 熟悉zookeeper配置与应用
 
-  - 了解zookeeper原理与源码
+- 了解zookeeper原理与源码
 
-- Consul方面: 
-  - 了解Consul
+##### Consul方面: 
+
+- 了解Consul
 
 ​      
 
@@ -116,57 +120,57 @@
 
 ## 互联网工具知识面
 
-- Git
+### Git
 
-  - 熟悉Gitlab/gitolite服务端快速搭建
+- 熟悉Gitlab/gitolite服务端快速搭建
 
-  - 熟悉Git的核心命令
+- 熟悉Git的核心命令
 
-  - 多年Git企业应用实践
+- 多年Git企业应用实践
 
-  - 熟悉git工作流
+- 熟悉git工作流
 
-- Maven
+### Maven
 
-  - 理解Maven生命周期
+- 理解Maven生命周期
 
-  - 了解Maven插件体系
+- 了解Maven插件体系
 
-  - 熟悉Maven核心命令
+- 熟悉Maven核心命令
 
-  - 熟悉Maven的pom配置体系
+- 熟悉Maven的pom配置体系
 
-- Jenkins
+### Jenkins
 
-  - 了解整体Jenkins体系结构
+- 了解整体Jenkins体系结构
 
-  - 熟悉Jenkins做持续集成
+- 熟悉Jenkins做持续集成
 
-  - 熟悉Jenkins插件体系
+- 熟悉Jenkins插件体系
 
-- Linux
+### Linux
 
-  - 熟悉Linux运维常用命令
+- 熟悉Linux运维常用命令
 
-  - 了解Linux用户与权限
+- 了解Linux用户与权限
 
-  - 熟悉Shell脚本编程
+- 熟悉Shell脚本编程
 
-- 虚拟容器
+### 虚拟容器
 
-  - docker方面:
+##### docker方面:
 
-    -  熟悉DockerFile使用
+-  熟悉DockerFile使用
 
-    -   熟悉DockerCompose集成式应用组合
+-   熟悉DockerCompose集成式应用组合
 
-    -   了解Docker服务编排实现
+-   了解Docker服务编排实现
 
-  - Kubernetes
+##### Kubernetes:
 
-    - 了解Kubernetes生产集群环境搭建与使用
+- 了解Kubernetes生产集群环境搭建与使用
 
-     
+ 
 
 ## 项目经验实践总结:
 
@@ -213,10 +217,10 @@
 - NIO原理及通信模型 
 - 了解5种IO模型如:
   1.  Blocking IO
-  2. ​     Non-Blocking IO
-  3. ​     IO multiplexing
-  4. ​     Signal driven IO
-  5. ​     Asynchronous IO   
+  2.  Non-Blocking IO
+  3.  IO multiplexing
+  4.  Signal driven IO
+  5.  Asynchronous IO   
 
 ### 理解常见java框架源码
 
