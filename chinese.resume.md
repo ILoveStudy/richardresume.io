@@ -1,10 +1,3 @@
-<style>
-  @media print {
-   footer,header,.tagline,.download-bar,.current-section,.__transltor{
-    display: none;
-   }
-  }
-</style>
 
 # Oswald简历
 
@@ -20,7 +13,7 @@
 
 - 重要开源项目:https://github.com/richardgong1987/RuoYi-baby
 
-- 期望职位： java,node.js架构师
+- 期望职位： java,node.js工程师
 
 - 期望薪资：30+K
 
@@ -329,28 +322,66 @@
 
 # 工作经验:
 
-### 2019-2-至今，VD软件解决方案公司
+### 2019.2-至今  VD软件解决方案公司
 
 ```
-职位:java开发负责人
+职位:架构师
 
-技术栈:springcloud微服务系列组件  数据库:mysql,F5  分布式缓存:redis-cluster  日志系统:logback 日志管理:greylog 链路追踪:skywalking 
+技术栈:springcloud微服务系列组件 数据库:mysql,F5 分布式缓存:redis-cluster 日志系统:logback 日志管理:greylog 链路追踪:skywalking 
 
-业绩: 每个月需要完成一个项目,每个月基本都能提前完成任务,并bug量较少. 绩效:A
+业绩: 每个月需要完成一个项目,每个月基本都能提前完成任务,并bug量较少. 维护旧系统的稳定 绩效:A
 
 工作内容:
-每月技术分享
-项目技术选型
-项目技术底层实现
-领带下属实现项目需求
-项目集成和发布
-向CTO汇报,分派下属工作.项目管理 
-协助其它人员解决疑难问题
+
+1.每月技术分享
+2.项目技术选型
+3.技术架构设计
+4.项目技术底层实现
+5.领带下属实现项目需求
+6.项目集成和发布
+7.向CTO汇报,分派下属工作.项目管理 
+8.协助其它人员解决疑难问题
 
 ```
 
-## 2017-7-2019-2，自由职业
+## 2015.5-2019.2   SurLead软件公司
 
 ```
-职位:远程自由职业
+职位:高级开发工程师
+
+技术栈:springcloud微服务系列组件,node.js系列技术栈 数据库:mysql,Oracle 分布式缓存:redis-cluster,mangodb 日志系统:logback 日志管理:ELKStack 前端:angular系列,vue系列,ionic系列
+
+业绩: 每个月需要完成一个项目,每个月基本都能提前完成任务,并bug量较少. 维护系统的稳定 绩效:A
+
+工作内容:
+ 1.维护旧系统,bug修复, 系统部分需求的更新
+ 2.带领新人，领导并正常迭代日常业务开发
+ 3.业务架构设计.
+ 4.Android,IOS,PC客户端开发.
+ 5.协助相关开发人员解决技术疑难问题,推进滞后项目完成.
+ 6.维护开发阶段的运维工作
+ 7.负责技术选型,技术架构
+
 ```
+
+
+
+# 教育经历
+
+## 学历教育:
+
+- 2007.9-2010.6 上海科技学院
+
+## 国际认证:
+
+- Microsoft Certified Professional
+- Microsoft Specialist
+
+
+
+# 自我评价
+
+- 具有很强的团队精神，有良好的组织和协调能力，有强烈的集体荣誉感。
+- 自学能力强，喜欢钻研新技术，敢于面对和克服困难。
+- 具有较强的适应能力;纪律性强，工作积极配合;意志坚强。
+
