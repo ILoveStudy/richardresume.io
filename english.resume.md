@@ -57,7 +57,7 @@ Familiar with basic data structures and algorithms. For example:
 
 ### Skilled distributed messaging middleware:
 
-#### RocketMq:
+#### RocketMQ:
 
 1. Understand the principles of RocketMq module division and clustering
 2. Understand common messages, sequential messages, transaction messages, timing messages
