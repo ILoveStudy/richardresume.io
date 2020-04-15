@@ -4,3 +4,9 @@
 ## [中文简历word下载](chinese.resume.docx)
 ## [English CV](english.resume.md)
 ## [English CV PDF download](english.resume.pdf)
+
+
+
+## [日语版](./japanese.resume.md)
+
+## [日语版PDF下载](./japanese.resume.pdf)
