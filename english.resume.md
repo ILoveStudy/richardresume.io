@@ -1,8 +1,8 @@
-# Oswald Resume
+# Gonghanjin Resume
 
 ## Personal information:
 
-- Mobile number: +63 9770250446
+
 
 - Sex: Male
 

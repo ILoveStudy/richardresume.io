@@ -2,7 +2,6 @@
 
 ## 個人情報：
 
-- 携帯電話番号：+63 9770250446
 - 性別：男性
 - メール：909253305@qq.com
 - githubアドレス：https://github.com/richardgong1987
