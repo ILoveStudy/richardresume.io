@@ -10,7 +10,7 @@
 
 - github address: https://github.com/richardgong1987
 
-- Important open source project: https://github.com/richardgong1987/RuoYi-baby
+- Important open source project: https://github.com/richardgong1987/RuoYi-baby,https://github.com/richardgong1987/RuoYi-Cloud-extend
 
 - Desired position: java, node.js architect direction
 

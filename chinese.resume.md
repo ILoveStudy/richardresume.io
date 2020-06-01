@@ -9,7 +9,7 @@
 
 - github地址: https://github.com/richardgong1987
 
-- 重要开源项目:https://github.com/richardgong1987/RuoYi-baby
+- 重要开源项目:https://github.com/richardgong1987/RuoYi-baby, https://github.com/richardgong1987/RuoYi-Cloud-extend
 
 - 期望职位： java,node.js架构师方向
 
