@@ -6,7 +6,7 @@
 - メール：909253305@qq.com
 - githubアドレス：https://github.com/richardgong1987
 - 重要なオープンソースプロジェクト：https://github.com/richardgong1987/RuoYi-baby
-- 望ましい位置：java、node.jsアーキテクトの指示
+- 望ましい位置：java、node.js developer
 - ソフトウェア開発の経験：10年以上
 
 # 専門能力の紹介
