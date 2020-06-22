@@ -253,7 +253,7 @@ Have some experience in JVM performance tuning
 
 # work experience:
 
-### 2019.2-present VD software solution company
+### 2019.2-2019.5 VD software solution company
 
 #### Position: Architect
 
