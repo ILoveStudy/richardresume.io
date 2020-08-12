@@ -11,8 +11,6 @@
 
 - github地址: https://github.com/richardgong1987
 
-- 重要开源项目:https://github.com/richardgong1987/RuoYi-baby, https://github.com/richardgong1987/RuoYi-Cloud-extend
-
 - 期望职位： java架构师
 
 - 软件开发经验:10年+
@@ -313,6 +311,40 @@
 
 
 # 工作经验:
+
+### 2019.6-至今  深圳华付信息
+
+#### 职位:资深java工程师
+
+#### 技术栈:
+
+springcloud系列
+
+mysql
+
+redis
+
+spark
+
+
+
+#### 工作内容:
+
+1. 技术架构设计
+
+2. 项目技术底层实现
+
+3. 领带下属实现项目需求
+
+4. 项目集成和发布
+
+5. 向项目经理工作汇报,分派下属工作.项目管理 
+
+6. 协助其它人员解决疑难问题
+
+   
+
+
 
 ### 2019.2-2019.5  VD软件解决方案公司
 
