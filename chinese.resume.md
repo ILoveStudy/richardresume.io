@@ -7,11 +7,13 @@
 
 - 电子邮件:   909253305@qq.com
 
+- 手机号: 18588871362
+
 - github地址: https://github.com/richardgong1987
 
 - 重要开源项目:https://github.com/richardgong1987/RuoYi-baby, https://github.com/richardgong1987/RuoYi-Cloud-extend
 
-- 期望职位： java,node.js开发方向
+- 期望职位： java架构师
 
 - 软件开发经验:10年+
 
