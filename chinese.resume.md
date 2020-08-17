@@ -11,7 +11,7 @@
 
 - github地址: https://github.com/richardgong1987
 
-- 期望职位： java架构师
+- 期望职位： java开发
 
 - 软件开发经验:10年+
 
