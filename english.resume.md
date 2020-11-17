@@ -1,4 +1,4 @@
-# CV of Gong Hanjin
+# Gong Hanjin's Resume
 
 ## personal information:
 
@@ -6,7 +6,7 @@
 - Email: 909253305@qq.com
 - Mobile number: 18588871362
 - github address: https://github.com/richardgong1987
-- Expected position: java developer
+- Expected position: java development
 - Software development experience: 10 years+
 
 # Professional ability introduction
@@ -35,7 +35,7 @@ Familiar with basic data structures and algorithms. For example:
 #### Design Principles:
 
 1. Principles of opening and closing, single responsibility and Richter substitution
-2. Rely on the principle of inversion, interface isolation, and composite reuse
+2. Rely on inversion, interface isolation, and composite multiplexing principles
 3. Dimit's Law
 
 #### Design Patterns:
@@ -56,7 +56,7 @@ Familiar with basic data structures and algorithms. For example:
 #### Kafka aspect:
 
 1. Understand the Kafka cluster construction and use
-2. Understand Kafka replica mechanism and election principles
+2. Understand the Kafka replica mechanism and election principles
 3. Understand the principle of Kafka architecture design
 4. Understand the implementation principle of a large-scale log system based on Kafka
 
@@ -95,9 +95,9 @@ Familiar with basic data structures and algorithms. For example:
 - Have some experience in Mysql performance tuning
 - Have a certain understanding of database high concurrency architecture design.
 
-## Internet tool knowledge
+## Knowledge of Internet Tools
 
-### Git
+### Go
 
 - Familiar with Gitlab/gitolite server to quickly build
 - Familiar with the core commands of Git
@@ -131,7 +131,7 @@ Familiar with basic data structures and algorithms. For example:
 - Familiar with DockerCompose integrated application portfolio
 - Understand the implementation of Docker service orchestration
 
-##### Kubernetes:
+##### Governors:
 
 - Understand the construction and use of Kubernetes production cluster environment
 
@@ -144,6 +144,7 @@ Familiar with basic data structures and algorithms. For example:
 
 ### java basics
 
+- 
 - Familiar with java reverse mechanism
 - Familiar with dynamic proxy mechanism
 - Familiar with servlet
@@ -170,28 +171,21 @@ Have certain experience in JVM performance tuning
 
 - Understand the difference between NIO and blocking I/O
 - NIO principle and communication model
-- Understand 5 IO models such as:
-  1. Blocking IO
-  2. Non-Blocking IO
-  3. IO multiplexing
-  4. Signal driven IO
-  5. Asynchronous IO
 
 ### Understand common java framework source code
 
 - Understand the Spring IOC source code and be able to customize IOC
-- Understand Spring Aop source code and be able to customize AOP
+- Understand the Spring Aop source code and be able to customize AOP
 - Understand the Spring MVC source code and be able to customize MVC
 - Understand Spring annotation development and be able to customize annotations
 - Understand the new features of Spring 5
 - Understand the source code and principle of the ORM framework MyBatis
-- Understand Spring transaction isolation and propagation
 
 ### Familiar with Springcloud-based microservice architecture
 
-- Familiar with the configuration of registry products, such as euroke, zookeeper, consul, and Nacos, understand the advantages and disadvantages of various registry products, and understand their source code and principles
-- Familiar with feign declarative calling components, familiar with the application of fuse components, such as hystrix, sentinel fuse configuration and application, and the use of Ribbon load balancing, and understand its source code and principles
-- Familiar with the application of microservice gateway product components, such as: zuul, configuration and use of springcloud gateway. Zipkin+Sleuth, skywalking link tracking technology, and understand its source code and principle
+- Familiar with the configuration of registry products, such as euroake, zookeeper, consul, and Nacos, understand the advantages and disadvantages of various registry products, and understand their source code and principles
+- Familiar with feign declarative calling components, familiar with the application of fuse components, such as hystrix, sentinel fuse configuration and application, and, the use of Ribbon load balancing, and understand its source code and principles
+- Familiar with the application of microservice gateway product components, such as: zuul, springcloud gateway configuration and use. Zipkin+Sleuth, skywalking link tracking technology, and understand its source code and principle
 - Familiar with message middleware processing such as Kafka, RocketMQ cluster construction and application.
 - Familiar with distributed configuration center component applications, such as: apollo, springcloud config
 
@@ -216,7 +210,7 @@ Have certain experience in JVM performance tuning
   - Webpack
   - rollup
   - yoman
-  - npm
+  - above sea level
   - Gulp
 
 ## Front-end knowledge
@@ -230,23 +224,23 @@ Have certain experience in JVM performance tuning
 
 ### Front-end framework:
 
-- Proficient in mvvm application development based on angular 9+lvy
+- Proficient in mvvm application development based on React.js 17.x +, angular 9+lvy
 - Proficient in application development above vue3.0
 - Proficient in jquery applications
-- Proficient in mobile terminal development based on ionic5.x
+- Proficient in mobile development based on ionic6.x
 - Familiar with semi-native development based on codova
 
 ### Front-end ecology:
 
 - Familiar with various front-end npm ecological packages
 - Familiar with a variety of admin template template applications
-- Familiar with a variety of front-end UI frameworks, such as elementUI, bootstrap, ionic5.x UI, electron native desktop applications
+- Familiar with a variety of front-end UI frameworks, such as: elementUI, bootstrap, ionic5.x UI, electron native desktop applications
 
 # work experience:
 
-### 2019.6-present Shenzhen Huafu Information
+### 2019.9-present Guangzhou HSBC Bank
 
-#### Position: Senior java engineer
+#### Position: java technical leader
 
 #### Technology stack:
 
@@ -254,26 +248,30 @@ springcloud series
 
 mysql
 
-redis
+repeat
 
-spark
+Mongodb
+
+react
+
+Angular
 
 #### Work content:
 
 1. Technical architecture design
-2. Project technical bottom-level realization
+2. Project technology bottom realization
 3. Tie subordinates fulfill project requirements
 4. Project integration and release
 5. Report to the project manager and assign subordinate tasks.
 6. Assist other personnel to solve difficult problems
 
-### 2019.2-2019.5 VD Software Solution Company
+### 2019.2-2019.9 Shenzhen Huafu Information
 
 #### Position: Architect
 
 #### Technology stack:
 
-springcloud microservice series component database: mysql, F5 distributed cache: redis-cluster log system: logback log management: greylog link tracking: skywalking
+Springcloud microservice series component database: mysql, F5 distributed cache: redis-cluster log system: logback log management: greylog link tracking: skywalking
 
 #### Performance:
 
@@ -284,7 +282,7 @@ A project needs to be completed every month, and tasks can be completed in advan
 1. Monthly technology sharing
 2. Project technology selection
 3. Technical architecture design
-4. Project technical bottom-level realization
+4. Project technology bottom realization
 5. Tie subordinates fulfill project requirements
 6. Project integration and release
 7. Report to CTO and assign subordinate work. Project management
@@ -302,12 +300,12 @@ Springcloud microservice series components, node.js series technology stack data
 
 #### Performance:
 
-A project needs to be completed every month, and the tasks can be completed in advance every month, and there are fewer bugs. Maintain the stable performance of the system: A
+A project needs to be completed every month, and the tasks can be completed in advance every month, and the amount of bugs is small. Maintain the stable performance of the system: A
 
 #### Work content:
 
 1. Maintain the old system, fix bugs, update some system requirements
-2. Lead newcomers, lead and iterate daily business development normally
+2. Lead newcomers, lead and iterate daily business development
 3. Business architecture design.
 4. Android, IOS, PC client development.
 5. Assist relevant developers to solve technical problems and promote the completion of lagging projects.
@@ -326,7 +324,7 @@ Server-side spring ecosystem, apache open source projects, node.js ecosystem dat
 
 #### Performance:
 
-Complete (1) Alipay app lottery application. (2) Alipay pc external secured transaction development and launch
+Completed (1) Alipay app lottery application. (2) Alipay pc external secured transaction development and launch
 
 #### Work content:
 
