@@ -186,8 +186,8 @@
 
 ###   java基础
 
+- 
 - 熟悉java反向机制
-
 - 熟悉动态代理机制
 - 熟悉servlet
 - 熟悉JDK tools的使用
@@ -217,12 +217,8 @@
 
 - 了解NIO 和阻塞I/O的区别
 - NIO原理及通信模型 
-- 了解5种IO模型如:
-  1.  Blocking IO
-  2.  Non-Blocking IO
-  3.  IO multiplexing
-  4.  Signal driven IO
-  5.  Asynchronous IO   
+
+     
 
 ### 理解常见java框架源码
 
@@ -231,9 +227,7 @@
 - 了解Spring MVC源码,能自定义MVC
 - 了解Spring注解式开发,能自定义注解
 - 了解Spring 5新特性
-
 -  了解ORM框架MyBatis源码与原理
-- 了解Spring事务隔离,传播
 
 
 
@@ -294,10 +288,10 @@
 
 ### 前端框架:
 
-- 精通基于angular 9+lvy的mvvm应用开发
+- 精通基于React.js 17.x + , angular 9+lvy的mvvm应用开发
 - 精通vue3.0以上的应用开发
 - 精通jquery的应用
-- 精通基于ionic5.x移动端开发
+- 精通基于ionic6.x移动端开发
 - 熟悉基于codova的半原生式开发
 
 ### 前端生态:
