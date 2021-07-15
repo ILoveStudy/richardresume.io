@@ -238,7 +238,7 @@ Have certain experience in JVM performance tuning
 
 # work experience:
 
-### 2019.9-present Guangzhou HSBC Bank
+### 2019.9-2021.2 Guangzhou HSBC Bank
 
 #### Position: java technical leader
 
