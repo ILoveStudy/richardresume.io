@@ -3,11 +3,11 @@
 ## personal information:
 
 - Sex: Male
-- Email: 909253305@qq.com
+- Email: richardgong1988@gmail.com
 - Mobile number: 18588871362
 - github address: https://github.com/richardgong1987
 - Expected position: java development
-- Software development experience: 10 years+
+- Software development experience: 11 years+
 
 # Professional ability introduction
 
@@ -23,7 +23,7 @@ Familiar with basic data structures and algorithms. For example:
 - Basic sorting algorithm
 - Quick sort and merge sort
 - Binary search, hash table
-- Tree, basic concept, binary tree (traversal)
+- Trees, basic concepts, binary trees (traversal)
 
 ### Understand the principle of thread pool
 
@@ -35,7 +35,7 @@ Familiar with basic data structures and algorithms. For example:
 #### Design Principles:
 
 1. Principles of opening and closing, single responsibility and Richter substitution
-2. Rely on inversion, interface isolation, and composite multiplexing principles
+2. Rely on the principle of inversion, interface isolation, and composite multiplexing
 3. Dimit's Law
 
 #### Design Patterns:
@@ -70,12 +70,12 @@ Familiar with basic data structures and algorithms. For example:
 
 #### Familiar distributed framework:
 
-##### Zookeeper:
+##### Zookeeper aspect:
 
 - Familiar with zookeeper configuration and application
 - Understand the principle and source code of zookeeper
 
-##### Consul side:
+##### On Consul:
 
 - Understanding Consul
 
@@ -97,7 +97,7 @@ Familiar with basic data structures and algorithms. For example:
 
 ## Knowledge of Internet Tools
 
-### Go
+### Git
 
 - Familiar with Gitlab/gitolite server to quickly build
 - Familiar with the core commands of Git
@@ -106,7 +106,7 @@ Familiar with basic data structures and algorithms. For example:
 
 ### Maven
 
-- Understanding the Maven life cycle
+- Understand the Maven life cycle
 - Understand the Maven plugin system
 - Familiar with Maven core commands
 - Familiar with Maven's pom configuration system
@@ -115,7 +115,7 @@ Familiar with basic data structures and algorithms. For example:
 
 - Understand the overall Jenkins architecture
 - Familiar with Jenkins for continuous integration
-- Familiar with Jenkins plugin system
+- Familiar with Jenkins plug-in system
 
 ### Linux
 
@@ -131,7 +131,7 @@ Familiar with basic data structures and algorithms. For example:
 - Familiar with DockerCompose integrated application portfolio
 - Understand the implementation of Docker service orchestration
 
-##### Governors:
+##### Kubernetes:
 
 - Understand the construction and use of Kubernetes production cluster environment
 
@@ -163,7 +163,7 @@ Have certain experience in JVM performance tuning
 
 ### Understand ThreadLocal
 
-- Understand ThreadLocal source code
+- Understand the ThreadLocal source code
 - Understand the difference between ThreadLocal and Synchronized
 - Familiar with ThreadLocal applications
 
@@ -183,7 +183,7 @@ Have certain experience in JVM performance tuning
 
 ### Familiar with Springcloud-based microservice architecture
 
-- Familiar with the configuration of registry products, such as euroake, zookeeper, consul, and Nacos, understand the advantages and disadvantages of various registry products, and understand their source code and principles
+- Familiar with the configuration of registry products, such as euroke, zookeeper, consul, and Nacos, understand the advantages and disadvantages of various registry products, and understand their source code and principles
 - Familiar with feign declarative calling components, familiar with the application of fuse components, such as hystrix, sentinel fuse configuration and application, and, the use of Ribbon load balancing, and understand its source code and principles
 - Familiar with the application of microservice gateway product components, such as: zuul, springcloud gateway configuration and use. Zipkin+Sleuth, skywalking link tracking technology, and understand its source code and principle
 - Familiar with message middleware processing such as Kafka, RocketMQ cluster construction and application.
@@ -193,29 +193,29 @@ Have certain experience in JVM performance tuning
 
 ### Understanding V8 diagnosis
 
-- Have a little diagnostic experience with v8 engine
+- Have a little diagnostic experience with the v8 engine
 
 ### Javascript/typescript basics
 
-- Proficient in ES6/7, familiar with typescript syntax system and various details of application.
+- Proficient in ES6/7, familiar with typescript grammar system and various details of application.
 - Proficient in typescript, ES6/ES7 object-oriented programming
 
 ### Node.js service framework
 
-- Familiar with the use of nestjs architecture, build node.js server development
-- Familiar with socket.io to build websocket real-time communication application
+- Familiar with the use of nestjs architecture to build node.js server-side development
+- Familiar with socket.io to build websocket real-time communication applications
 - Proficient in express.js, loopback.js server-side framework, and proficient in its source code and principles
 - Familiar with tools based on the node.js ecosystem, such as:
   - Java's rapid development platform jhipster
   - Webpack
   - rollup
   - yoman
-  - above sea level
+  - npm
   - Gulp
 
 ## Front-end knowledge
 
-### Front-end foundation:
+### Front-end basics:
 
 - Proficient in DOM interface
 - Proficient in css3, css4
@@ -238,7 +238,30 @@ Have certain experience in JVM performance tuning
 
 # work experience:
 
-### 2019.9-2021.2 Guangzhou HSBC Bank
+### 2021.1-Present Nisshin System Co., Ltd.
+
+Location: Omori North, Ota-ku, Tokyo
+
+#### Position: Senior java development engineer
+
+#### Technology stack:
+
+javalin
+
+comsDB
+
+react
+
+#### Work content:
+
+1. Business realization
+2. Project technical bottom-level realization
+3. Stress test design
+4. Project integration and release
+5. Operation and maintenance
+6. Assist other personnel to solve difficult problems
+
+### 2019.9-2021.1 Guangzhou HSBC Bank
 
 #### Position: java technical leader
 
@@ -248,7 +271,7 @@ springcloud series
 
 mysql
 
-repeat
+redis
 
 Mongodb
 
@@ -259,7 +282,7 @@ Angular
 #### Work content:
 
 1. Technical architecture design
-2. Project technology bottom realization
+2. Project technical bottom-level realization
 3. Tie subordinates fulfill project requirements
 4. Project integration and release
 5. Report to the project manager and assign subordinate tasks.
@@ -271,18 +294,18 @@ Angular
 
 #### Technology stack:
 
-Springcloud microservice series component database: mysql, F5 distributed cache: redis-cluster log system: logback log management: greylog link tracking: skywalking
+springcloud microservice series component database: mysql, F5 distributed cache: redis-cluster log system: logback log management: greylog link tracking: skywalking
 
 #### Performance:
 
-A project needs to be completed every month, and tasks can be completed in advance every month, with fewer bugs. Maintaining the stable performance of the old system: A
+A project needs to be completed every month, and the tasks can be completed in advance every month, with fewer bugs. Maintaining the stable performance of the old system: A
 
 #### Work content:
 
 1. Monthly technology sharing
 2. Project technology selection
 3. Technical architecture design
-4. Project technology bottom realization
+4. Project technical bottom-level realization
 5. Tie subordinates fulfill project requirements
 6. Project integration and release
 7. Report to CTO and assign subordinate work. Project management
@@ -305,7 +328,7 @@ A project needs to be completed every month, and the tasks can be completed in a
 #### Work content:
 
 1. Maintain the old system, fix bugs, update some system requirements
-2. Lead newcomers, lead and iterate daily business development
+2. Lead newcomers, lead and iterate daily business development normally
 3. Business architecture design.
 4. Android, IOS, PC client development.
 5. Assist relevant developers to solve technical problems and promote the completion of lagging projects.
@@ -320,11 +343,11 @@ Full stack engineer
 
 #### Technology stack:
 
-Server-side spring ecosystem, apache open source projects, node.js ecosystem database: mysql Front end: zepto.js, Alialia
+Server-side spring ecosystem, apache open source projects, node.js ecosystem database: mysql Front end: zepto.js, Ali alia
 
 #### Performance:
 
-Completed (1) Alipay app lottery application. (2) Alipay pc external secured transaction development and launch
+Complete (1) Alipay app lottery application. (2) Alipay pc external secured transaction development and launch
 
 #### Work content:
 
@@ -347,7 +370,7 @@ Mobile Full Stack Engineer
 
 #### Performance:
 
-Complete Ctrip's international air ticket project, domestic air ticket project, ticket order project, train ticket project, strategy project, and surrounding travel projects. A series of Ctrip services such as free travel projects and hotel projects are transferred from PC to mobile terminal
+Complete Ctrip's international air ticket project, domestic air ticket project, ticket ordering project, train ticket project, strategy project, and surrounding travel projects. A series of Ctrip services such as free travel projects and hotel projects are transferred from PC to mobile terminal
 
 #### Work content:
 
@@ -371,12 +394,12 @@ Complete the company's outbound project and deliver the project on time and in q
 
 #### Work content:
 
-1. The main customer is SAP.
+1. The main customer is SAP company.
 2. Maintain the stability of the old SAP project system
 3. Follow up with iterative updates of old SAP projects
 4. Participate in the development of new requirements for SAP
 
-# Education experience
+# Educational experience
 
 ## Academic education:
 
@@ -390,5 +413,5 @@ Complete the company's outbound project and deliver the project on time and in q
 # Self-evaluation
 
 - Have a strong team spirit, good organization and coordination skills, and a strong sense of collective honor.
-- Strong self-learning ability, like to study new technology, dare to face and overcome difficulties.
+- Strong self-learning ability, like to delve into new technology, dare to face and overcome difficulties.
 - Have strong adaptability; strong discipline, active cooperation in work; strong will.
