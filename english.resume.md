@@ -15,15 +15,11 @@
 
 ### Algorithm and data structure
 
-Familiar with basic data structures and algorithms. For example:
+Have a solid data structure and algorithm foundation:
 
 - Algorithm complexity analysis
-- Linear list, linked list data structure
-- Queue and stack data structure
-- Basic sorting algorithm
-- Quick sort and merge sort
-- Binary search, hash table
-- Trees, basic concepts, binary trees (traversal)
+- Linear data structure, logical data structure, such as: array, tree, graph structure, red-black tree, hash table, etc.
+- Basic algorithm
 
 ### Understand the principle of thread pool
 
@@ -53,7 +49,7 @@ Familiar with basic data structures and algorithms. For example:
 1. Understand RocketMq module division and cluster principle
 2. Understand common messages, sequence messages, transaction messages, and timing messages
 
-#### Kafka aspect:
+#### Kafka:
 
 1. Understand the Kafka cluster construction and use
 2. Understand the Kafka replica mechanism and election principles
@@ -184,7 +180,7 @@ Have certain experience in JVM performance tuning
 ### Familiar with Springcloud-based microservice architecture
 
 - Familiar with the configuration of registry products, such as euroke, zookeeper, consul, and Nacos, understand the advantages and disadvantages of various registry products, and understand their source code and principles
-- Familiar with feign declarative calling components, familiar with the application of fuse components, such as hystrix, sentinel fuse configuration and application, and, the use of Ribbon load balancing, and understand its source code and principles
+- Familiar with feign declarative calling components, familiar with the application of fuse components, such as hystrix, sentinel fuse configuration and application, and the use of Ribbon load balancing, and understand its source code and principles
 - Familiar with the application of microservice gateway product components, such as: zuul, springcloud gateway configuration and use. Zipkin+Sleuth, skywalking link tracking technology, and understand its source code and principle
 - Familiar with message middleware processing such as Kafka, RocketMQ cluster construction and application.
 - Familiar with distributed configuration center component applications, such as: apollo, springcloud config
@@ -255,7 +251,7 @@ react
 #### Work content:
 
 1. Business realization
-2. Project technical bottom-level realization
+2. Bottom realization of project technology
 3. Stress test design
 4. Project integration and release
 5. Operation and maintenance
@@ -282,7 +278,7 @@ Angular
 #### Work content:
 
 1. Technical architecture design
-2. Project technical bottom-level realization
+2. Bottom realization of project technology
 3. Tie subordinates fulfill project requirements
 4. Project integration and release
 5. Report to the project manager and assign subordinate tasks.
@@ -298,14 +294,14 @@ springcloud microservice series component database: mysql, F5 distributed cache:
 
 #### Performance:
 
-A project needs to be completed every month, and the tasks can be completed in advance every month, with fewer bugs. Maintaining the stable performance of the old system: A
+A project needs to be completed every month, and the tasks can be basically completed in advance every month, with fewer bugs. Maintaining the stable performance of the old system: A
 
 #### Work content:
 
 1. Monthly technology sharing
 2. Project technology selection
 3. Technical architecture design
-4. Project technical bottom-level realization
+4. Bottom realization of project technology
 5. Tie subordinates fulfill project requirements
 6. Project integration and release
 7. Report to CTO and assign subordinate work. Project management
@@ -313,7 +309,7 @@ A project needs to be completed every month, and the tasks can be completed in a
 
 ## 2015.5-2019.2 SurLead Software Company
 
-#### position:
+#### Position:
 
 Senior Development Engineer
 
@@ -337,7 +333,7 @@ A project needs to be completed every month, and the tasks can be completed in a
 
 ## 2014.6-2015.2 Alibaba-Alipay Shanghai Branch
 
-#### position:
+#### Position:
 
 Full stack engineer
 
@@ -360,7 +356,7 @@ Complete (1) Alipay app lottery application. (2) Alipay pc external secured tran
 
 ## 2013.6-2014.5 Ctrip Computer Center
 
-#### position:
+#### Position:
 
 Mobile Full Stack Engineer
 
@@ -380,7 +376,7 @@ Complete Ctrip's international air ticket project, domestic air ticket project, 
 
 ## 2010.8-2013.5 Qunshuo Software Development (Shanghai) Co., Ltd.
 
-#### position:
+#### Position:
 
 Front-end development engineer
 
