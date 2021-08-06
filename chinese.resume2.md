@@ -6,7 +6,7 @@
 
 - 期望职位： javascript/typescript,react1.17.x ,vue3.x,angular10.x,  java15.x/ kotlin开发工程师
 
-- 软件开发经验:10年+
+- 软件开发经验:11年+
 
   
 
