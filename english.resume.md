@@ -11,77 +11,17 @@
 
 # Professional ability introduction
 
-## Basic knowledge of programming:
-
-### Algorithm and data structure
+### Algorithm and data structure capabilities
 
 Have a solid data structure and algorithm foundation:
 
 - Algorithm complexity analysis
+
 - Linear data structure, logical data structure, such as: array, tree, graph structure, red-black tree, hash table, etc.
-- Basic algorithm
 
-### Understand the principle of thread pool
+- Have a strong ability to solve basic algorithms. Often challenged on websites such as leetcode, hackerrank, etc.
 
-- Understand how threads work
-- Custom thread pool
-
-### Understand common design patterns and principles
-
-#### Design Principles:
-
-1. Principles of opening and closing, single responsibility and Richter substitution
-2. Rely on the principle of inversion, interface isolation, and composite multiplexing
-3. Dimit's Law
-
-#### Design Patterns:
-
-- Creation mode: singleton mode
-- Structural model: agency model
-- Behavioral model: template method, strategy and observer model
-
-## Distributed framework knowledge
-
-### Skilled distributed messaging middleware:
-
-#### RocketMQ aspect:
-
-1. Understand RocketMq module division and cluster principle
-2. Understand common messages, sequence messages, transaction messages, and timing messages
-
-#### Kafka:
-
-1. Understand the Kafka cluster construction and use
-2. Understand the Kafka replica mechanism and election principles
-3. Understand the principle of Kafka architecture design
-4. Understand the implementation principle of a large-scale log system based on Kafka
-
-### Familiar distributed storage middleware:
-
-#### Redis side:
-
-1. Understand Redis Cluster cluster architecture and deployment
-2. Understand Redis cache penetration, cache invalidation, and cache avalanche
-3. Familiar with various data structures of redis and use them proficiently in projects
-
-#### Familiar distributed framework:
-
-##### Zookeeper aspect:
-
-- Familiar with zookeeper configuration and application
-- Understand the principle and source code of zookeeper
-
-##### On Consul:
-
-- Understanding Consul
-
-
-
-## Microservice knowledge
-
-- Familiar with the history of service architecture changes
-- Familiar with the design of various service architectures
-- Understand the advantages and disadvantages of various service architectures
+  
 
 ## SQL knowledge
 
@@ -91,27 +31,14 @@ Have a solid data structure and algorithm foundation:
 - Have some experience in Mysql performance tuning
 - Have a certain understanding of database high concurrency architecture design.
 
-## Knowledge of Internet Tools
+## Internet tool knowledge
 
-### Git
+### git
 
 - Familiar with Gitlab/gitolite server to quickly build
 - Familiar with the core commands of Git
 - Many years of Git enterprise application practice
 - Familiar with git workflow
-
-### Maven
-
-- Understand the Maven life cycle
-- Understand the Maven plugin system
-- Familiar with Maven core commands
-- Familiar with Maven's pom configuration system
-
-### Jenkins
-
-- Understand the overall Jenkins architecture
-- Familiar with Jenkins for continuous integration
-- Familiar with Jenkins plug-in system
 
 ### Linux
 
@@ -119,32 +46,25 @@ Have a solid data structure and algorithm foundation:
 - Understand Linux users and permissions
 - Familiar with Shell script programming
 
-### Virtual container
-
-##### docker aspect:
-
-- Familiar with the use of DockerFile
-- Familiar with DockerCompose integrated application portfolio
-- Understand the implementation of Docker service orchestration
-
-##### Kubernetes:
-
-- Understand the construction and use of Kubernetes production cluster environment
-
-## Summary of project experience and practice:
-
-- There is a certain billion-level traffic platform design
-- Distributed call chain platform
-
 ## java knowledge
+
+### Microservice knowledge
+
+- Familiar with the history of service architecture changes
+- Familiar with the design of various service architectures
+- Understand the advantages and disadvantages of various service architectures
 
 ### java basics
 
-- 
 - Familiar with java reverse mechanism
 - Familiar with dynamic proxy mechanism
 - Familiar with servlet
 - Familiar with the use of JDK tools
+
+### Understand the principle of thread pool
+
+- Understand how threads work
+- Custom thread pool
 
 ### JVM performance tuning:
 
@@ -177,14 +97,6 @@ Have certain experience in JVM performance tuning
 - Understand the new features of Spring 5
 - Understand the source code and principle of the ORM framework MyBatis
 
-### Familiar with Springcloud-based microservice architecture
-
-- Familiar with the configuration of registry products, such as euroke, zookeeper, consul, and Nacos, understand the advantages and disadvantages of various registry products, and understand their source code and principles
-- Familiar with feign declarative calling components, familiar with the application of fuse components, such as hystrix, sentinel fuse configuration and application, and the use of Ribbon load balancing, and understand its source code and principles
-- Familiar with the application of microservice gateway product components, such as: zuul, springcloud gateway configuration and use. Zipkin+Sleuth, skywalking link tracking technology, and understand its source code and principle
-- Familiar with message middleware processing such as Kafka, RocketMQ cluster construction and application.
-- Familiar with distributed configuration center component applications, such as: apollo, springcloud config
-
 ## node.js knowledge
 
 ### Understanding V8 diagnosis
@@ -205,38 +117,17 @@ Have certain experience in JVM performance tuning
   - Java's rapid development platform jhipster
   - Webpack
   - rollup
-  - yoman
-  - npm
-  - Gulp
 
-## Front-end knowledge
+# Summary of project experience and practice:
 
-### Front-end basics:
-
-- Proficient in DOM interface
-- Proficient in css3, css4
-- Proficient in client-side javascript
-- Proficient in desktop application development, such as: exe application development under window.
-
-### Front-end framework:
-
-- Proficient in mvvm application development based on React.js 17.x +, angular 9+lvy
-- Proficient in application development above vue3.0
-- Proficient in jquery applications
-- Proficient in mobile development based on ionic6.x
-- Familiar with semi-native development based on codova
-
-### Front-end ecology:
-
-- Familiar with various front-end npm ecological packages
-- Familiar with a variety of admin template template applications
-- Familiar with a variety of front-end UI frameworks, such as: elementUI, bootstrap, ionic5.x UI, electron native desktop applications
+- There is a certain billion-level traffic platform design
+- Distributed call chain platform
 
 # work experience:
 
-### 2021.1-Present Nisshin System Co., Ltd.
+### 2021.1-Now now Nissin Systems Co., Ltd.
 
-Location: Omori North, Ota-ku, Tokyo
+Location: Omorikita, Ota-ku, Tokyo
 
 #### Position: Senior java development engineer
 
@@ -267,7 +158,7 @@ springcloud series
 
 mysql
 
-redis
+repeat
 
 Mongodb
 
