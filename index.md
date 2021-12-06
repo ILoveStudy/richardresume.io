@@ -7,5 +7,3 @@
 ## [English CV PDF download](english.resume.pdf)
 ## [English CV Word download](english.resume.docx)
 
-## [日语版](./japanese.resume.md)
-## [日语版PDF下载](./japanese.resume.pdf)
