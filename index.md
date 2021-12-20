@@ -3,5 +3,5 @@
 ## [中文简历pdf下载](chinese.resume.pdf)
 
 ## [English CV](english.resume.md)
-## [English CV PDF download](english.resume.pdf)
+## [English CV PDF download](Gong Hanjin's Resume.pdf)
 

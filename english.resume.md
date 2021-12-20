@@ -21,8 +21,6 @@ Have a solid data structure and algorithm foundation:
 
 - Have a strong ability to solve basic algorithms. Often challenged on websites such as leetcode, hackerrank, etc.
 
-  
-
 ## SQL knowledge
 
 - Familiar with the use of MYSQL, ORACLE database products
@@ -129,6 +127,16 @@ Have certain experience in JVM performance tuning
 
 Location: Omorikita, Ota-ku, Tokyo
 
+#### Project introduction:
+
+It is a talent management system of strategic personnel
+
+Personnel evaluation with smart phones,
+Talent information visualization, talent allocation, talent training
+A cloud personnel system that is helpful for talent strategies such as target management and personnel evaluation.
+Unified management and visualization of talent information, combined with staff skills
+Talent strategic objectives.
+
 #### Position: Senior java development engineer
 
 #### Technology stack:
@@ -149,6 +157,10 @@ react
 6. Assist other personnel to solve difficult problems
 
 ### 2019.9-2021.1 Guangzhou HSBC Bank
+
+#### Project introduction:
+
+It is an HSBC account opening system for overseas banks in Singapore, Hong Kong and inland China
 
 #### Position: java technical leader
 
