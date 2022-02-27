@@ -1,147 +1,171 @@
-# Gong Hanjin's Resume
+# Resume of Gong Hanjin
 
 ## personal information:
 
 - Sex: Male
+
 - Email: richardgong1988@gmail.com
-- Mobile number: 18588871362
+
+- Phone number: 18588871362
+
 - github address: https://github.com/richardgong1987
-- Expected position: java development
+
+- Expected position: java development engineer, Golang development engineer
+
 - Software development experience: 11 years+
 
 # Professional ability introduction
 
-### Algorithm and data structure capabilities
+### Algorithms and data structure skills
 
-Have a solid data structure and algorithm foundation:
+Have a solid foundation in data structures and algorithms:
 
-- Algorithm complexity analysis
+- Algorithm Complexity Analysis
 
-- Linear data structure, logical data structure, such as: array, tree, graph structure, red-black tree, hash table, etc.
+- Linear data structures, logical data structures, such as: arrays, trees, graph structures, red-black trees, hash tables, etc.
 
-- Have a strong ability to solve basic algorithms. Often challenged on websites such as leetcode, hackerrank, etc.
+- Strong ability to solve basic algorithms. Often challenge on leetcode, hackerrank and other websites
+  
+  ​
 
 ## SQL knowledge
 
-- Familiar with the use of MYSQL, ORACLE database products
+- Familiar with using MYSQL, ORACLE database products
 - Proficient in SQL business table design
-- Familiar with the application of SQL addition, deletion and modification
+- Familiar with the application of SQL CRUD
 - Have some experience in Mysql performance tuning
 - Have a certain understanding of database high concurrency architecture design.
 
 ## Internet tool knowledge
 
-### git
+### Git
 
 - Familiar with Gitlab/gitolite server to quickly build
-- Familiar with the core commands of Git
-- Many years of Git enterprise application practice
+
+- Familiarize yourself with the core commands of Git
+
+- Years of Git enterprise application practice
+
 - Familiar with git workflow
 
 ### Linux
 
-- Familiar with common commands of Linux operation and maintenance
-- Understand Linux users and permissions
-- Familiar with Shell script programming
+- Familiar with common Linux operation and maintenance commands
 
-## java knowledge
+- Understanding Linux Users and Permissions
+
+- Familiar with Shell Scripting
+
+## Golang knowledge
+
+### Golang basics
+
+- Familiar with Golang language features, make full use of Golang language features
+
+- Have a solid Golang language foundation
+
+- Familiar with Golang language ecology, flexible use of various golang frameworks
+
+- Have a lot of practical experience in Golang projects
+
+## Java knowledge
 
 ### Microservice knowledge
 
 - Familiar with the history of service architecture changes
+
 - Familiar with the design of various service architectures
+
 - Understand the advantages and disadvantages of various service architectures
 
 ### java basics
 
 - Familiar with java reverse mechanism
 - Familiar with dynamic proxy mechanism
-- Familiar with servlet
+- Get familiar with servlets
 - Familiar with the use of JDK tools
 
 ### Understand the principle of thread pool
 
 - Understand how threads work
-- Custom thread pool
+
+- custom thread pool
 
 ### JVM performance tuning:
 
 #### Understand the following core technologies of JVM
 
-1. Memory structure
-2. Garbage collection
-3. Class loading and bytecode technology
-4. Memory model
+1. memory structure
+2. garbage collection
+3. Class loading and bytecode techniques
+4. memory model
 
-Have certain experience in JVM performance tuning
+Have some experience in JVM performance tuning
 
-### Understand ThreadLocal
+### Understanding ThreadLocal
 
 - Understand the ThreadLocal source code
+
 - Understand the difference between ThreadLocal and Synchronized
+
 - Familiar with ThreadLocal applications
 
-### Understand NIO
+### Understanding NIO
 
 - Understand the difference between NIO and blocking I/O
 - NIO principle and communication model
 
 ### Understand common java framework source code
 
-- Understand the Spring IOC source code and be able to customize IOC
-- Understand the Spring Aop source code and be able to customize AOP
-- Understand the Spring MVC source code and be able to customize MVC
-- Understand Spring annotation development and be able to customize annotations
-- Understand the new features of Spring 5
+- Understand Spring IOC source code, can customize IOC
+- Understand Spring Aop source code, can customize AOP
+- Understand Spring MVC source code, can customize MVC
+- Understand Spring annotation development, can customize annotations
+- Learn about what's new in Spring 5
 - Understand the source code and principle of the ORM framework MyBatis
 
 ## node.js knowledge
 
-### Understanding V8 diagnosis
+### Understanding V8 Diagnostics
 
-- Have a little diagnostic experience with the v8 engine
+- Have a little experience in diagnosing the v8 engine
 
 ### Javascript/typescript basics
 
-- Proficient in ES6/7, familiar with typescript grammar system and various details of application.
+- Proficient in ES6/7, familiar with typescript syntax system and various details of application.
 - Proficient in typescript, ES6/ES7 object-oriented programming
 
-### Node.js service framework
+### node.js serving framework
 
-- Familiar with the use of nestjs architecture to build node.js server-side development
-- Familiar with socket.io to build websocket real-time communication applications
+- Familiar with the use of nestjs architecture, build node.js server development
+
+- Familiar with socket.io to build websocket timely communication application
+
 - Proficient in express.js, loopback.js server-side framework, and proficient in its source code and principles
-- Familiar with tools based on the node.js ecosystem, such as:
-  - Java's rapid development platform jhipster
+
+- Familiar with node.js-based ecosystem tools, such as:
+  
+  - java rapid development platform jhipster
   - Webpack
   - rollup
 
-# Summary of project experience and practice:
+# Project experience and practice summary:
 
 - There is a certain billion-level traffic platform design
+
 - Distributed call chain platform
 
 # work experience:
 
-### 2021.1-Now now Nissin Systems Co., Ltd.
+### 2021.1-Present
 
-Location: Omorikita, Ota-ku, Tokyo
+Location: Omori North, Ota-ku, Tokyo
 
-#### Project introduction:
-
-It is a talent management system of strategic personnel
-
-Personnel evaluation with smart phones,
-Talent information visualization, talent allocation, talent training
-A cloud personnel system that is helpful for talent strategies such as target management and personnel evaluation.
-Unified management and visualization of talent information, combined with staff skills
-Talent strategic objectives.
-
-#### Position: Senior java development engineer
+#### Position: Senior Java Developer
 
 #### Technology stack:
 
-javalin
+javalin, Golang, Typescript
 
 comsDB
 
@@ -149,28 +173,31 @@ react
 
 #### Work content:
 
-1. Business realization
-2. Bottom realization of project technology
-3. Stress test design
-4. Project integration and release
+1. business realization
+
+2. Project technology underlying implementation
+
+3. Stress Test Design
+
+4. Project integration and publishing
+
 5. Operation and maintenance
-6. Assist other personnel to solve difficult problems
+
+6. Assist others in solving difficult problems
 
 ### 2019.9-2021.1 Guangzhou HSBC Bank
 
-#### Project introduction:
-
-It is an HSBC account opening system for overseas banks in Singapore, Hong Kong and inland China
-
-#### Position: java technical leader
+#### Position:java technical leader
 
 #### Technology stack:
+
+Golang
 
 springcloud series
 
 mysql
 
-repeat
+redis
 
 Mongodb
 
@@ -180,12 +207,17 @@ Angular
 
 #### Work content:
 
-1. Technical architecture design
-2. Bottom realization of project technology
-3. Tie subordinates fulfill project requirements
-4. Project integration and release
-5. Report to the project manager and assign subordinate tasks.
-6. Assist other personnel to solve difficult problems
+1. Technical Architecture Design
+
+2. Project technology underlying implementation
+
+3. Tie subordinates to realize project requirements
+
+4. Project integration and publishing
+
+5. Report to the project manager and assign work to subordinates. Project management
+
+6. Assist others in solving difficult problems
 
 ### 2019.2-2019.9 Shenzhen Huafu Information
 
@@ -193,22 +225,31 @@ Angular
 
 #### Technology stack:
 
-springcloud microservice series component database: mysql, F5 distributed cache: redis-cluster log system: logback log management: greylog link tracking: skywalking
+Golang
+
+springcloud alibaba technology stack
 
 #### Performance:
 
-A project needs to be completed every month, and the tasks can be basically completed in advance every month, with fewer bugs. Maintaining the stable performance of the old system: A
+One project needs to be completed every month, and tasks can be basically completed ahead of schedule every month with less bugs. Maintain the stable performance of the old system: A
 
 #### Work content:
 
-1. Monthly technology sharing
+1. monthly technical sharing
+
 2. Project technology selection
-3. Technical architecture design
-4. Bottom realization of project technology
-5. Tie subordinates fulfill project requirements
-6. Project integration and release
-7. Report to CTO and assign subordinate work. Project management
-8. Assist other personnel to solve difficult problems
+
+3. Technical Architecture Design
+
+4. Project technology underlying implementation
+
+5. Tie subordinates to realize project requirements
+
+6. Project integration and publishing
+
+7. Report to the CTO and assign work to subordinates. Project management
+
+8. Assist others in solving difficult problems
 
 ## 2015.5-2019.2 SurLead Software Company
 
@@ -218,31 +259,33 @@ Senior Development Engineer
 
 #### Technology stack:
 
-Springcloud microservice series components, node.js series technology stack database: mysql, Oracle distributed cache: redis-cluster, mangodb Log system: logback Log management: ELKStack Front end: angular series, vue series, ionic series
+Golang
+
+springcloud microservice series components, node.js series technology stack database: mysql, Oracle distributed cache: redis-cluster, mangodb log system: logback log management: ELKStack front end: angular series, vue series, ionic series
 
 #### Performance:
 
-A project needs to be completed every month, and the tasks can be completed in advance every month, and the amount of bugs is small. Maintain the stable performance of the system: A
+One project needs to be completed every month, and tasks can be basically completed in advance every month with less bugs. Maintain the stable performance of the system: A
 
 #### Work content:
 
-1. Maintain the old system, fix bugs, update some system requirements
-2. Lead newcomers, lead and iterate daily business development normally
+1. Maintenance of legacy systems, bug fixes, updates to system requirements
+2. Lead new people, lead and normally iterate on day-to-day business development
 3. Business architecture design.
 4. Android, IOS, PC client development.
-5. Assist relevant developers to solve technical problems and promote the completion of lagging projects.
-6. Maintain the operation and maintenance work in the development phase
+5. Assist relevant developers to solve technical difficulties and promote the completion of lagging projects.
+6. Maintenance work in the development phase
 7. Responsible for technical selection and technical architecture
 
 ## 2014.6-2015.2 Alibaba-Alipay Shanghai Branch
 
 #### Position:
 
-Full stack engineer
+full stack engineer
 
 #### Technology stack:
 
-Server-side spring ecosystem, apache open source projects, node.js ecosystem database: mysql Front end: zepto.js, Ali alia
+Server-side spring ecosystem, various apache open source projects, node.js ecosystem database: mysql front-end: zepto.js, Ali alia
 
 #### Performance:
 
@@ -250,32 +293,31 @@ Complete (1) Alipay app lottery application. (2) Alipay pc external secured tran
 
 #### Work content:
 
-1. Realize business api service, render jsp, vm template
-2. Fix long-standing bugs.
-3. Assist relevant developers to solve technical problems
-4. Responsible for the development of Alipay application business and served as the development team leader.
-5. Write java rendering template
-6. 
+1. Implement business api services, render jsp, vm templates
+2. Fix longstanding bugs.
+3. Assist relevant developers to solve technical difficulties
+4. Responsible for Alipay application business development and serve as development team leader.
+5. Write a java rendering template
 
 ## 2013.6-2014.5 Ctrip Computer Center
 
 #### Position:
 
-Mobile Full Stack Engineer
+Mobile full stack engineer
 
 #### Technology stack:
 
-.Net series, Node.js series database: SQLSERVER Front end: backbone, zepto.js
+.Net series, Node.js series Database: SQLSERVER Front-end: backbone, zepto.js
 
 #### Performance:
 
-Complete Ctrip's international air ticket project, domestic air ticket project, ticket ordering project, train ticket project, strategy project, and surrounding travel projects. A series of Ctrip services such as free travel projects and hotel projects are transferred from PC to mobile terminal
+Complete Ctrip's international air ticket project, domestic air ticket project, ticket order project, train ticket project, strategy project, and surrounding tour projects. A series of Ctrip businesses such as independent travel projects and hotel projects have been transferred from PC to mobile terminal
 
 #### Work content:
 
 1. Mobile restfull interface writing
-2. The mobile terminal is responsible for technology selection, business framework development, and partial component development
-3. Mobile terminal business development based on phonegap, daily bug follow-up
+2. The mobile terminal is responsible for technology selection, business framework development, and some component development
+3. Mobile business development based on phonegap, daily bug follow-up
 
 ## 2010.8-2013.5 Qunshuo Software Development (Shanghai) Co., Ltd.
 
@@ -289,20 +331,20 @@ springmvc, strut2, nodejs database: mysql front end: backbone, zepto.js jquery.j
 
 #### Performance:
 
-Complete the company's outbound project and deliver the project on time and in quantity
+Complete the company's expatriate project and deliver the project on time and according to the quantity
 
 #### Work content:
 
-1. The main customer is SAP company.
+1. The main customer is SAP.
 2. Maintain the stability of the old SAP project system
-3. Follow up with iterative updates of old SAP projects
-4. Participate in the development of new requirements for SAP
+3. Follow up the iterative update of old SAP projects
+4. Participate in the development of new SAP requirements
 
-# Educational experience
+# educational experience
 
 ## Academic education:
 
-- 2007.9-2010.6 Shanghai University of Science and Technology
+- 2007.9-2010.6 Shanghai Institute of Science and Technology
 
 ## International Certification:
 
@@ -311,6 +353,6 @@ Complete the company's outbound project and deliver the project on time and in q
 
 # Self-evaluation
 
-- Have a strong team spirit, good organization and coordination skills, and a strong sense of collective honor.
-- Strong self-learning ability, like to delve into new technology, dare to face and overcome difficulties.
-- Have strong adaptability; strong discipline, active cooperation in work; strong will.
+- Has a strong team spirit, good organization and coordination skills, and a strong sense of collective honor.
+- Strong self-learning ability, like to study new technology, dare to face and overcome difficulties.
+- Strong adaptability; strong discipline, active cooperation in work; strong will.

@@ -56,8 +56,6 @@
 
 - 熟悉Shell脚本编程
 
-
-
 ## Golang知识
 
 ### Golang基础
@@ -69,8 +67,6 @@
 - 熟悉Golang语言生态,灵活使用golang各类框架
 
 - 有比较多的Golang项目实践经验
-
-
 
 ## Java知识
 
@@ -152,12 +148,6 @@
   - java的快速开发平台jhipster
   - Webpack
   - rollup
-
-
-
-
-
-
 
 # 项目经验实践总结:
 
