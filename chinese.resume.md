@@ -1,7 +1,6 @@
-
 # 龚汉金简历
 
-##    个人资料:
+## 个人资料:
 
 - 性别:男
 
@@ -11,13 +10,9 @@
 
 - github地址: https://github.com/richardgong1987
 
-- 期望职位： java开发
+- 期望职位： java开发工程师,Golang开发工程师
 
 - 软件开发经验:11年+
-
-  
-
-  
 
 # 专业能力介绍
 
@@ -30,10 +25,8 @@
 - 线性数据结构、逻辑数据结构,如:数组,树,图结构,红黑树,散列表等
 
 - 有很强的基础算法解决能力. 常在leetcode,hackerrank等网站作题挑战
-
+  
   ​    
-
-
 
 ## SQL知识
 
@@ -42,8 +35,6 @@
 - 熟悉SQL的增删改查的应用
 - 对Mysql性能调优有一定的经验
 - 对数据库高并发架构设计有一定的了解.
-
-
 
 ## 互联网工具知识
 
@@ -65,25 +56,33 @@
 
 - 熟悉Shell脚本编程
 
- 
+
+
+## Golang知识
+
+### Golang基础
+
+- 熟悉Golang的语言特性,活用Golang语言特性
+
+- 有扎实的Golang语言基础
+
+- 熟悉Golang语言生态,灵活使用golang各类框架
+
+- 有比较多的Golang项目实践经验
 
 
 
-
-
-## java知识
+## Java知识
 
 ### 微服务知识
 
--  熟悉服务架构变迁史
+- 熟悉服务架构变迁史
 
 - 熟悉各种服务架构的设计
 
 - 理解各种服务架构的优点和缺点
 
-  
-
-###   java基础
+### java基础
 
 - 熟悉java反向机制
 - 熟悉动态代理机制
@@ -96,22 +95,18 @@
 
 - 自定义线程池
 
-  
+### JVM性能调优:
 
-###    JVM性能调优:
+#### 了解JVM如下核心技术
 
-#### 了解JVM如下核心技术    
-
-1.    内存结构
-2.    垃圾回收
-3.    类加载和字节码技术
-4.    内存模型
+1. 内存结构
+2. 垃圾回收
+3. 类加载和字节码技术
+4. 内存模型
 
 具有一定的JVM性能调优经验
 
-
-
-###  理解ThreadLocal
+### 理解ThreadLocal
 
 - 了解ThreadLocal源码
 
@@ -119,12 +114,10 @@
 
 - 熟悉ThreadLocal应用
 
-###   理解NIO
+### 理解NIO
 
 - 了解NIO 和阻塞I/O的区别
 - NIO原理及通信模型 
-
-     
 
 ### 理解常见java框架源码
 
@@ -133,11 +126,7 @@
 - 了解Spring MVC源码,能自定义MVC
 - 了解Spring注解式开发,能自定义注解
 - 了解Spring 5新特性
--  了解ORM框架MyBatis源码与原理
-
-
-
-
+- 了解ORM框架MyBatis源码与原理
 
 ## node.js知识面
 
@@ -153,13 +142,18 @@
 ### node.js服务框架
 
 - 熟悉使用nestjs架构,搭建node.js服务端开发
-- 熟悉socket.io搭建websocket及时通应用
-- 精通express.js, loopback.js服务端框架框架,并对精通其源码和原理
-- 熟悉基于node.js生态圈工具,如:
 
+- 熟悉socket.io搭建websocket及时通应用
+
+- 精通express.js, loopback.js服务端框架框架,并对精通其源码和原理
+
+- 熟悉基于node.js生态圈工具,如:
+  
   - java的快速开发平台jhipster
   - Webpack
   - rollup
+
+
 
 
 
@@ -171,8 +165,6 @@
 
 - 分布式调用链平台
 
-  
-
 # 工作经验:
 
 ### 2021.1-至今   株式会社日進システムズ
@@ -183,7 +175,7 @@
 
 #### 技术栈:
 
-javalin
+javalin,Golang,Typescript
 
 comsDB
 
@@ -203,15 +195,13 @@ react
 
 6. 协助其它人员解决疑难问题
 
-   
-
-
-
 ### 2019.9-2021.1  广州汇丰银行
 
 #### 职位:java technical leader
 
 #### 技术栈:
+
+Golang
 
 springcloud系列
 
@@ -239,19 +229,17 @@ Angular
 
 6. 协助其它人员解决疑难问题
 
-   
-
-
-
 ### 2019.2-2019.9 深圳华付信息
 
 #### 职位:架构师
 
 #### 技术栈:
 
-springcloud微服务系列组件 数据库:mysql,F5 分布式缓存:redis-cluster 日志系统:logback 日志管理:greylog 链路追踪:skywalking 
+Golang
 
-#### 业绩: 
+springcloud alibaba技术栈
+
+#### 业绩:
 
 每个月需要完成一个项目,每个月基本都能提前完成任务,并bug量较少. 维护旧系统的稳定 绩效:A
 
@@ -273,8 +261,6 @@ springcloud微服务系列组件 数据库:mysql,F5 分布式缓存:redis-cluste
 
 8. 协助其它人员解决疑难问题
 
-   
-
 ## 2015.5-2019.2   SurLead软件公司
 
 #### 职位:
@@ -283,23 +269,23 @@ springcloud微服务系列组件 数据库:mysql,F5 分布式缓存:redis-cluste
 
 #### 技术栈:
 
+Golang
+
 springcloud微服务系列组件,node.js系列技术栈 数据库:mysql,Oracle 分布式缓存:redis-cluster,mangodb 日志系统:logback 日志管理:ELKStack 前端:angular系列,vue系列,ionic系列
 
-#### 业绩: 
+#### 业绩:
 
 每个月需要完成一个项目,每个月基本都能提前完成任务,并bug量较少. 维护系统的稳定 绩效:A
 
 #### 工作内容:
 
-1.  维护旧系统,bug修复, 系统部分需求的更新
-2.  带领新人，领导并正常迭代日常业务开发
-3.  业务架构设计.
-4.  Android,IOS,PC客户端开发.
-5.  协助相关开发人员解决技术疑难问题,推进滞后项目完成.
-6.  维护开发阶段的运维工作
-7.  负责技术选型,技术架构
-
-
+1. 维护旧系统,bug修复, 系统部分需求的更新
+2. 带领新人，领导并正常迭代日常业务开发
+3. 业务架构设计.
+4. Android,IOS,PC客户端开发.
+5. 协助相关开发人员解决技术疑难问题,推进滞后项目完成.
+6. 维护开发阶段的运维工作
+7. 负责技术选型,技术架构
 
 ## 2014.6-2015.2   阿里巴巴-支付宝上海分公司
 
@@ -344,8 +330,6 @@ springcloud微服务系列组件,node.js系列技术栈 数据库:mysql,Oracle �
 2. 移动端负责技术选型,业务框架开发,部分组件开发
 3. 基于phonegap进行移动端业务开发,日常bug跟进
 
-
-
 ## 2010.8-2013.5  群硕软件开发（上海）有限公司
 
 #### 职位:
@@ -367,8 +351,6 @@ springmvc,strut2,nodejs数据库：mysql  前端:backbone, zepto.js jquery.js
 3. 跟进SAP旧项目迭代更新
 4. 参与开发SAP新需求开发
 
-
-
 # 教育经历
 
 ## 学历教育:
@@ -380,11 +362,8 @@ springmvc,strut2,nodejs数据库：mysql  前端:backbone, zepto.js jquery.js
 - Microsoft Certified Professional
 - Microsoft Specialist
 
-
-
 # 自我评价
 
 - 具有很强的团队精神，有良好的组织和协调能力，有强烈的集体荣誉感。
 - 自学能力强，喜欢钻研新技术，敢于面对和克服困难。
 - 具有较强的适应能力;纪律性强，工作积极配合;意志坚强。
-
