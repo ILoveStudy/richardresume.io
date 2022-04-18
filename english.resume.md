@@ -185,7 +185,7 @@ react
 
 6. Assist others in solving difficult problems
 
-### 2019.9-2021.1 Guangzhou HSBC Bank
+### 2019.2-2021.1 Guangzhou HSBC Bank
 
 #### Position:java technical leader
 
@@ -219,37 +219,7 @@ Angular
 
 6. Assist others in solving difficult problems
 
-### 2019.2-2019.9 Shenzhen Huafu Information
-
-#### Position: Architect
-
-#### Technology stack:
-
-Golang
-
-springcloud alibaba technology stack
-
-#### Performance:
-
-One project needs to be completed every month, and tasks can be basically completed ahead of schedule every month with less bugs. Maintain the stable performance of the old system: A
-
-#### Work content:
-
-1. monthly technical sharing
-
-2. Project technology selection
-
-3. Technical Architecture Design
-
-4. Project technology underlying implementation
-
-5. Tie subordinates to realize project requirements
-
-6. Project integration and publishing
-
-7. Report to the CTO and assign work to subordinates. Project management
-
-8. Assist others in solving difficult problems
+### 
 
 ## 2015.5-2019.2 SurLead Software Company
 
@@ -277,29 +247,7 @@ One project needs to be completed every month, and tasks can be basically comple
 6. Maintenance work in the development phase
 7. Responsible for technical selection and technical architecture
 
-## 2014.6-2015.2 Alibaba-Alipay Shanghai Branch
-
-#### Position:
-
-full stack engineer
-
-#### Technology stack:
-
-Server-side spring ecosystem, various apache open source projects, node.js ecosystem database: mysql front-end: zepto.js, Ali alia
-
-#### Performance:
-
-Complete (1) Alipay app lottery application. (2) Alipay pc external secured transaction development and launch
-
-#### Work content:
-
-1. Implement business api services, render jsp, vm templates
-2. Fix longstanding bugs.
-3. Assist relevant developers to solve technical difficulties
-4. Responsible for Alipay application business development and serve as development team leader.
-5. Write a java rendering template
-
-## 2013.6-2014.5 Ctrip Computer Center
+## 2013.6-2015.2 Ctrip Computer Center
 
 #### Position:
 
