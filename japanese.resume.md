@@ -6,7 +6,7 @@
 
 - メール：richardgong1988@gmail.com
 
-- 携帯電話番号：18588871362
+- 携帯電話番号：+81-8070065858
 
 - githubアドレス：https：//github.com/richardgong1987
 

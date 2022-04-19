@@ -6,7 +6,7 @@
 
 - 电子邮件:   richardgong1988@gmail.com
 
-- 手机号: 18588871362
+- 手机号: +81-8070065858
 
 - github地址: https://github.com/richardgong1987
 

@@ -6,7 +6,7 @@
 
 - Email: richardgong1988@gmail.com
 
-- Phone number: 18588871362
+- Phone number: +81-8070065858
 
 - github address: https://github.com/richardgong1987
 
