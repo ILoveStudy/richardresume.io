@@ -28,6 +28,8 @@ Tokyo
 | JavaScript                    | 11        |     | ExpressJs /Angular/React/Vue | 5         |
 | TypeScript                    | 6         |     | Html/Css.x                   | 5         |
 | Oracle/ MySQL/Redis/ cosmosdb | 5         |     | Agile                        | 3         |
+| Docker                        | 5         |     | Azure                        | 1.5       |
+| Linux                         | 8         |     |                              |           |
 |                               |           |     |                              |           |
 
 ## Experience
