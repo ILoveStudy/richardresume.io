@@ -10,7 +10,9 @@ Address: Koto City, Tokyo, Japan
 
 ## Summary
 
-Has 12 years of software development experience. Proficient in the following languages: Java, typescript, Javascript, Golang, html 5, css.x
+Has 12 years of software development experience. have a solid algorithmic and data structure foundation.
+
+Proficient in the following languages: Java, typescript, Javascript, Golang, html 5, css.x
 
 and get acquainted with their ecological environment.
 
