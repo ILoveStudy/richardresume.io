@@ -4,7 +4,9 @@
 
 GitHub:  https://github.com/richardgong1987 
 
-Address: Katsushika Tokyo, Japan
+Phone:  08070065858
+
+Address: Koto City, Tokyo, Japan
 
 ## Summary
 
@@ -34,7 +36,41 @@ Tokyo
 
 ## Experience
 
-#### Nisshin [Tokyo,Japan]                          January 2021 ~present
+
+
+Nomura Security  [Tokyo,Japan]                          January 2022.6-present
+
+###### Senior  Engineer
+
+As the Senior Engineer.Usually help colleagues to solve technical problems and answer business questions
+
+#### Work content:
+
+1. business realization
+
+2. Project technology underlying implementation
+
+3. Stress Test Design
+
+4. Project integration and publishing
+
+5. Operation and maintenance
+
+6. Assist others in solving difficult problems
+
+Development environment:
+
+・Languages ​​used: Java,Tyscript,Golang,SQL Server,Node.js, Angular14
+
+・Frameworks/Library: Nestjs,goframe,Springboot,Anagular 14
+
+
+
+
+
+
+
+#### Nisshin [Tokyo,Japan]                          January 2021 ~2022.6
 
 ###### Senior Java Engineer
 
@@ -60,7 +96,7 @@ Development environment:
 
 ・Frameworks/Library: Javalin,K6,goframe
 
-### HSBC Bank[Guangzhou,China]  2019.2-2021.1
+### HSBC Bank[Guangzhou,China]  2019.2-2021.6
 
 #### Technical leader
 

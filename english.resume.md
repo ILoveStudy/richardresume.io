@@ -162,7 +162,35 @@ Have some experience in JVM performance tuning
 
 # work experience:
 
-### 2021.1-Present
+### 2022.6-present  Nomura Security Co.,Ltd.
+
+Location: Toyosu station, Tokyo
+
+#### Position: Senior  Developer
+
+#### Technology stack:
+
+Java, Golang,Node.js, Typescript
+
+SQL Server
+
+Angular
+
+#### Work content:
+
+1. business realization
+
+2. Project technology underlying implementation
+
+3. Stress Test Design
+
+4. Project integration and publishing
+
+5. Operation and maintenance
+
+6. Assist others in solving difficult problems
+
+### 2021.1-2022.6 SmartCompany Co.,Ltd.
 
 Location: Omori North, Ota-ku, Tokyo
 
