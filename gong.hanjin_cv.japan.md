@@ -38,9 +38,7 @@ Tokyo
 
 ## Experience
 
-
-
-Nomura Security  [Tokyo,Japan]                          January 2022.6-present
+#### Nomura Security  [Tokyo,Japan]                          January 2022.6-present
 
 ###### Senior  Engineer
 
@@ -65,12 +63,6 @@ Development environment:
 ・Languages ​​used: Java,Tyscript,Golang,SQL Server,Node.js, Angular14
 
 ・Frameworks/Library: Nestjs,goframe,Springboot,Anagular 14
-
-
-
-
-
-
 
 #### Nisshin [Tokyo,Japan]                          January 2021 ~2022.6
 
