@@ -12,7 +12,7 @@ Address: Koto City, Tokyo, Japan
 
 Has 12 years of software development experience. have a solid algorithmic and data structure foundation.
 
-Proficient in the following languages: Java, typescript, Javascript, Golang, html 5, css.x
+Proficient in the following languages: Java, Python,Golang , typescript, Javascript,  html5,  css.x
 
 and get acquainted with their ecological environment.
 
@@ -34,7 +34,7 @@ Tokyo
 | Oracle/ MySQL/Redis/ cosmosdb | 5         |     | Agile                        | 3         |
 | Docker                        | 5         |     | Azure                        | 1.5       |
 | Linux                         | 8         |     |                              |           |
-|                               |           |     |                              |           |
+| python                        | 5         |     |                              |           |
 
 ## Experience
 
@@ -42,7 +42,7 @@ Tokyo
 
 ###### Senior  Engineer
 
-As the Senior Engineer.Usually help colleagues to solve technical problems and answer business questions
+As the Senior Engineer.Usually, help colleagues to solve technical problems and answer business questions
 
 #### Work content:
 

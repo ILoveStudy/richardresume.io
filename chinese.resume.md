@@ -10,7 +10,7 @@
 
 - github地址: https://github.com/richardgong1987
 
-- 期望职位： java开发工程师,Golang开发工程师,Node.js开发工程师
+- 期望职位： java,Python, Golang,Node.js开发工程师
 
 - 软件开发经验:11年+
 
@@ -26,7 +26,7 @@
 
 - 有很强的基础算法解决能力. 常在leetcode,hackerrank等网站作题挑战
   
-  ​    
+  ​
 
 ## SQL知识
 
@@ -113,7 +113,7 @@
 ### 理解NIO
 
 - 了解NIO 和阻塞I/O的区别
-- NIO原理及通信模型 
+- NIO原理及通信模型
 
 ### 理解常见java框架源码
 
@@ -187,7 +187,7 @@ Angular
 
 ### 2021.1-2022.6   株式会社日進システムズ
 
- 所在地: 東京都大田区大森北
+所在地: 東京都大田区大森北
 
 #### 职位: 高级java开发工程师
 
@@ -243,7 +243,7 @@ Angular
 
 4. 项目集成和发布
 
-5. 向项目经理工作汇报,分派下属工作.项目管理 
+5. 向项目经理工作汇报,分派下属工作.项目管理
 
 6. 协助其它人员解决疑难问题
 
@@ -259,7 +259,8 @@ Angular
 
 Golang
 
-springcloud微服务系列组件,node.js系列技术栈 数据库:mysql,Oracle 分布式缓存:redis-cluster,mangodb 日志系统:logback 日志管理:ELKStack 前端:angular系列,vue系列,ionic系列
+springcloud微服务系列组件,node.js系列技术栈 数据库:mysql,Oracle 分布式缓存:redis-cluster,mangodb 日志系统:logback
+日志管理:ELKStack 前端:angular系列,vue系列,ionic系列
 
 #### 业绩:
 
@@ -283,11 +284,11 @@ springcloud微服务系列组件,node.js系列技术栈 数据库:mysql,Oracle �
 
 #### 技术栈:
 
-.Net系列,Node.js系列  数据库:SQLSERVER  前端:backbone, zepto.js
+.Net系列,Node.js系列 数据库:SQLSERVER 前端:backbone, zepto.js
 
 #### 业绩:
 
- 完成携程国际机票项目，国内机票项目，门票订购项目，火车票项目，攻略项目，周边游项目。自由行项目，酒店项目等一系列携程业务从PC转移到移动端
+完成携程国际机票项目，国内机票项目，门票订购项目，火车票项目，攻略项目，周边游项目。自由行项目，酒店项目等一系列携程业务从PC转移到移动端
 
 #### 工作内容:
 
@@ -303,11 +304,11 @@ springcloud微服务系列组件,node.js系列技术栈 数据库:mysql,Oracle �
 
 #### 技术栈:
 
-springmvc,strut2,nodejs数据库：mysql  前端:backbone, zepto.js jquery.js
+springmvc,strut2,nodejs数据库：mysql 前端:backbone, zepto.js jquery.js
 
 #### 业绩:
 
- 完成公司外派项目,准时按量交付项目
+完成公司外派项目,准时按量交付项目
 
 #### 工作内容:
 
