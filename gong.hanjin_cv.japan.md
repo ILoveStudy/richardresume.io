@@ -8,13 +8,9 @@ GitHub: https://github.com/richardgong1987
 
 Address: Koto City, Tokyo, Japan
 
-
-
 ## SUMMARY
 
 Highly experienced software developer with over 12 years of industry experience in a range of fields, including banking, payment, e-commerce, tourism, and traditional games. Proficient in a variety of programming languages, including Java, Python, Golang, TypeScript, JavaScript, HTML5, and CSS, with **a solid foundation in algorithms and data structure**. Committed to staying up-to-date with the latest technologies and best practices. Currently developing SAAS systems for a company in Tokyo.
-
-
 
 ## SKILLS:
 
@@ -39,7 +35,7 @@ Highly experienced software developer with over 12 years of industry experience 
 - Work with Java, TypeScript, Python, SQL Server, Node.js, and Angular14
 - Frameworks/library used: Nestjs, Python batch, Angular 14
 
-Senior Java Engineer | Nisshin | Tokyo, Japan | January 2021 - June 2022
+##### Senior Java Engineer | Nisshin | Tokyo, Japan | January 2021 - June 2022
 
 - Help colleagues solve technical problems and answer business questions
 - Implement project technology underlying implementation and stress test design
@@ -77,13 +73,8 @@ Senior Java Engineer | Nisshin | Tokyo, Japan | January 2021 - June 2022
 - Work with Java, MySQL, and Node.js
 - Frameworks/library used: Spring, Hibernate, jquery js, Backbonejs, Underscorejs, Zeptojs
 
-
-
 ## Certifications:
 
-
 Microsoft Certified Profesional, Microsoft, Date of achievement:06/13/2016, Certification number:F729-5132
-
-
 
 Microsoft Certified Specialist, Microsoft, Date of achievement:06/13/2016, Certification number:F729-5137
