@@ -71,8 +71,6 @@ Senior Java Engineer | Nisshin | Tokyo, Japan | January 2021 - June 2022
 - Work with Java, .Net, SQL Server, MySQL, and Node.js
 - Frameworks/library used: Spring, Hibernate, jquery js
 
-
-
 ##### Front-end Development Engineer | Qunshuo | Shanghai, China | August 2010 - May 2013
 
 - Completed the company's expatriate project and delivered it on time and according to the quantity
