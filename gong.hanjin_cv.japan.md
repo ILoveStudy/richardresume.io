@@ -1,188 +1,91 @@
-# Gong. Hanjin
+# GONG HANJIN
 
- richardgong1988@gmail/Sep 06th,1987
+Email: [richardgong1988@gmail.com](mailto:richardgong1988@gmail.com) 
 
-GitHub:  https://github.com/richardgong1987 
+Phone: 08070065858 
 
-Phone:  08070065858
+GitHub: https://github.com/richardgong1987
 
 Address: Koto City, Tokyo, Japan
 
-## Summary
 
-Has 12 years of software development experience. have a solid algorithmic and data structure foundation.
 
-Proficient in the following languages: Java, Python,Golang , typescript, Javascript,  html5,  css.x
+## SUMMARY
 
-and get acquainted with their ecological environment.
+Highly experienced software developer with over 12 years of industry experience in a range of fields, including banking, payment, e-commerce, tourism, and traditional games. Proficient in a variety of programming languages, including Java, Python, Golang, TypeScript, JavaScript, HTML5, and CSS, with **a solid foundation in algorithms and data structure**. Committed to staying up-to-date with the latest technologies and best practices. Currently developing SAAS systems for a company in Tokyo.
 
-The industries he has engaged in include: banking, payment,
-e-commerce, tourism, traditional games
 
-In the last few years, it was mainly the role of technical
-director.
 
-Currently working on SAAS system development in a company in
-Tokyo
+## SKILLS:
 
-| **Skill**                     | **Years** |     | **Skills**                   | **Years** |
-| ----------------------------- | --------- | --- | ---------------------------- | --------- |
-| Java                          | 11        |     | Spring boot/spring           | 7         |
-| Golang                        | 5         |     | NestJs/expressJs/ loopbackJS | 5         |
-| JavaScript                    | 11        |     | ExpressJs /Angular/React/Vue | 5         |
-| TypeScript                    | 6         |     | Html/Css.x                   | 5         |
-| Oracle/ MySQL/Redis/ cosmosdb | 5         |     | Agile                        | 3         |
-| Docker                        | 5         |     | Azure                        | 1.5       |
-| Linux                         | 8         |     |                              |           |
-| python                        | 5         |     |                              |           |
+| **Skill**                      | **Years** |     | **Skills**               | **Years** |
+| ------------------------------ | --------- | --- | ------------------------ | --------- |
+| Java                           | 11        |     | Spring boot/spring       | 7         |
+| Golang                         | 3         |     | NestJs/expressJs/ koa.js | 5         |
+| JavaScript                     | 11        |     | Angular/React/Vue        | 5         |
+| TypeScript                     | 6         |     | Html5/Css.x              | 5         |
+| Oracle/ MySQL/Redis/ cosmos DB | 5         |     | Agile                    | 3         |
+| Docker                         | 5         |     | Azure                    | 1.5       |
+| Linux                          | 8         |     | Gitlab                   | 8         |
+| Python                         | 3         |     |                          |           |
 
-## Experience
+## EXPERIENCE
 
-#### Nomura Security  [Tokyo,Japan]                          January 2022.6-present
+##### Senior Engineer | Nomura Security | Tokyo, Japan | June 2022 - Present
 
-###### Senior  Engineer
+- Assist colleagues in solving technical problems and answering business questions
+- Implement project technology underlying implementation and stress test design
+- Assist others in solving difficult problems and project integration and publishing
+- Work with Java, TypeScript, Python, SQL Server, Node.js, and Angular14
+- Frameworks/library used: Nestjs, Python batch, Angular 14
 
-As the Senior Engineer.Usually, help colleagues to solve technical problems and answer business questions
+Senior Java Engineer | Nisshin | Tokyo, Japan | January 2021 - June 2022
 
-#### Work content:
+- Help colleagues solve technical problems and answer business questions
+- Implement project technology underlying implementation and stress test design
+- Assist others in solving difficult problems and project integration and publishing
+- Work with Java, TypeScript, Golang, and CosmosDB
+- Frameworks/library used: Javalin, K6, go frame
 
-1. business realization
+##### Technical Leader | HSBC Bank | Guangzhou, China | February 2019 - June 2021
 
-2. Project technology underlying implementation
+- Plan project implementation plan and technical selection
+- Overcome technical problems and communicate business requirements
+- Report to the CTO and assign work to subordinates
+- Assist others in solving difficult problems
+- Work with Java, TypeScript, Golang, Oracle, MySQL, and Node.js
+- Frameworks/library used: Springboot, Mybatis, React
 
-3. Stress Test Design
+##### Technical Leader | SurLead | Manila, the Philippines | May 2015 - February 2019
 
-4. Project integration and publishing
+- Communicate business needs and project planning
+- Implement project version update iterative maintenance
+- Report to the CTO and assign work to subordinates
+- Assist others in solving difficult problems
+- Work with Java, TypeScript, Oracle, MySQL, and Node.js
+- Frameworks/library used: Springboot, Mybatis, Reactjs, Angularjs, Vuejs, Nestjs, Expressjs
 
-5. Operation and maintenance
+##### Full Stack Engineer | Ctrip | Shanghai, China | June 2013 - February 2015
 
-6. Assist others in solving difficult problems
+- Completed various Ctrip businesses such as international air ticket projects, domestic air ticket projects, ticket order projects, train ticket projects, strategy projects, and surrounding tour projects
+- Work with Java, .Net, SQL Server, MySQL, and Node.js
+- Frameworks/library used: Spring, Hibernate, jquery js
 
-Development environment:
 
-・Languages ​​used: Java,Tyscript,Golang,SQL Server,Node.js, Angular14
 
-・Frameworks/Library: Nestjs,goframe,Springboot,Anagular 14
+##### Front-end Development Engineer | Qunshuo | Shanghai, China | August 2010 - May 2013
 
-#### Nisshin [Tokyo,Japan]                          January 2021 ~2022.6
+- Completed the company's expatriate project and delivered it on time and according to the quantity
+- Work with Java, MySQL, and Node.js
+- Frameworks/library used: Spring, Hibernate, jquery js, Backbonejs, Underscorejs, Zeptojs
 
-###### Senior Java Engineer
 
-As the Senior Engineer.Usually help colleagues to solve technical problems and answer business questions
 
-#### Work content:
+## Certifications:
 
-1. business realization
 
-2. Project technology underlying implementation
+Microsoft Certified Profesional, Microsoft, Date of achievement:06/13/2016, Certification number:F729-5132
 
-3. Stress Test Design
 
-4. Project integration and publishing
 
-5. Operation and maintenance
-
-6. Assist others in solving difficult problems
-
-Development environment:
-
-・Languages ​​used:  Java,Tyscript,Golang,CosmosDB,Node.js
-
-・Frameworks/Library: Javalin,K6,goframe
-
-### HSBC Bank[Guangzhou,China]  2019.2-2021.6
-
-#### Technical leader
-
-As the technical leader, my main job is to plan the project implementation plan, technical selection, technical evaluation, overcome technical problems, communicate business requirements
-
-#### Work content:
-
-1. monthly technical sharing
-
-2. Project technology selection
-
-3. Technical Architecture Design
-
-4. Project technology underlying implementation
-
-5. Tie subordinates to realize project requirements
-
-6. Project integration and publishing
-
-7. Report to the CTO and assign work to subordinates. Project management
-
-8. Assist others in solving difficult problems
-
-Development environment:
-
-・Languages ​​used: Java,Tyscript,Golang,Oracle,Mysql,Node.js
-
-・Frameworks/Library: springboot,Mybatis,React
-
-### SurLead [manila,the Philippines]  2015.5-2019.2
-
-#### Technical leader
-
-As the technical leader,Business needs communication, project planning, technology selection and implementation. Project version update iterative maintenance
-
-#### Work content:
-
-1. monthly technical sharing
-
-2. Project technology selection
-
-3. Technical Architecture Design
-
-4. Project technology underlying implementation
-
-5. Tie subordinates to realize project requirements
-
-6. Project integration and publishing
-
-7. Report to the CTO and assign work to subordinates. Project management
-
-8. Assist others in solving difficult problems
-
-Development environment:
-
-・Languages ​​used: Java,Tyscript,Oracle,Mysql,Node.js
-
-・Frameworks/Library: springboot,Mybatis,Reactjs,Angularjs,Vuejs,Nestjs,Expressjs
-
-## Ctrip [Shanghai,China] 2013.6-2015.2
-
-#### Full stack engineer
-
-Complete Ctrip’s international air ticket project, domestic air ticket project, ticket order project, train ticket project, strategy project, and surrounding tour projects. A series of Ctrip businesses such as independent travel projects and hotel projects have been transferred from PC to mobile terminal
-
-#### Work content:
-
-1. Mobile restfull interface writing
-2. The mobile terminal is responsible for technology selection, business framework development, and some component development
-3. Mobile business development based on phonegap, daily bug follow-up
-
-Development environment:
-
-・Languages ​​used: Java,.Net,SqlServer,Mysql,Node.js
-
-・Frameworks/Library: spring,hibernate,jqueryjs,backbonejs,underscorejs,zeptojs
-
-## Qunshuo [Shanghai,China]  2010.8-2013.5
-
-#### Front-end development engineer
-
-Complete the company’s expatriate project and deliver the project on time and according to the quantity
-
-#### Work content:
-
-1. The main customer is SAP.
-2. Maintain the stability of the old SAP project system
-3. Follow up the iterative update of old SAP projects
-4. Participate in the development of new SAP requirements
-
-Development environment:
-
-・Languages ​​used: Java,Mysql,Node.js,javascript
-
-・Frameworks/Library: spring,hibernate,jqueryjs,backbonejs,underscorejs,zeptojs
+Microsoft Certified Specialist, Microsoft, Date of achievement:06/13/2016, Certification number:F729-5137
