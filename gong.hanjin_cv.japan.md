@@ -73,8 +73,12 @@ Highly experienced software developer with over 12 years of industry experience 
 - Work with Java, MySQL, and Node.js
 - Frameworks/library used: Spring, Hibernate, jquery js, Backbonejs, Underscorejs, Zeptojs
 
-## Certifications:
+## 
+
+# Certifications:
 
 Microsoft Certified Profesional, Microsoft, Date of achievement:06/13/2016, Certification number:F729-5132
 
 Microsoft Certified Specialist, Microsoft, Date of achievement:06/13/2016, Certification number:F729-5137
+
+AI, Business & the Future of Workt, Lund university, Date of achievement:02/25/2023, Certification number:PQWUCLUWX2E6
