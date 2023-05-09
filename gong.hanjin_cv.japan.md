@@ -10,7 +10,7 @@ Address: Koto City, Tokyo, Japan
 
 ## SUMMARY
 
-Accomplished software developer with 12+ years of experience across various industries, including banking, payment, e-commerce, tourism, and traditional games. Proficient in numerous programming languages, such as Java, Python, Golang, TypeScript, JavaScript, HTML5, and CSS, and a strong background in algorithms and data structure. Dedicated to staying current with emerging technologies and best practices. Currently developing SAAS systems for a Tokyo-based company.
+Accomplished software developer with 13+ years of experience across various industries, including banking, payment, e-commerce, tourism, and traditional games. Proficient in numerous programming languages, such as Java, Python, Golang, TypeScript, JavaScript, HTML5, and CSS, and a strong background in algorithms and data structure. Dedicated to staying current with emerging technologies and best practices. Currently developing SAAS systems for a Tokyo-based company.
 
 ## SKILLS:
 
