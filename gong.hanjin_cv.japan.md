@@ -27,7 +27,9 @@ Accomplished software developer with 13+ years of experience across various indu
 
 ## EXPERIENCE
 
-##### Senior Engineer | Nomura Security | Tokyo, Japan | June 2022 - Present
+##### Contract Senior Engineer | Nomura Security | Tokyo, Japan | June 2022 - Present
+
+
 
 Responsibilities:
 
@@ -50,7 +52,7 @@ Business:
 
 - Securities and Investment Banking
 
-##### Senior Java Engineer | Nisshin | Tokyo, Japan | January 2021 - June 2022
+##### Contract Senior Java Engineer | Nisshin | Tokyo, Japan | January 2021 - June 2022
 
 Responsibilities:
 
@@ -73,7 +75,7 @@ Business:
 
 - Cloud-based HR Solutions
 
-##### Technical Leader | HSBC Bank | Guangzhou, China | February 2019 - June 2021
+##### Contract Technical Leader | HSBC Bank | Guangzhou, China | February 2019 - June 2021
 
 Responsibilities:
 
@@ -100,7 +102,7 @@ Business:
 
 - Investment Banking
 
-##### Technical Leader | SurLead | Manila, the Philippines | May 2015 - February 2019
+##### Permanent Technical Leader | SurLead | Manila, the Philippines | May 2015 - February 2019
 
 Responsibilities:
 
@@ -123,7 +125,7 @@ Business:
 
 - Software Development, Insourcing, and IT Consulting
 
-##### Full Stack Engineer | Ctrip | Shanghai, China | June 2013 - February 2015
+##### Permanent Full Stack Engineer | Ctrip | Shanghai, China | June 2013 - February 2015
 
 Responsibilities:
 
@@ -144,7 +146,7 @@ Business:
 
 - E-commerce, Travel
 
-##### Front-end Development Engineer | Qunshuo | Shanghai, China | August 2010 - May 2013
+##### Permanent Front-end Development Engineer | Qunshuo | Shanghai, China | August 2010 - May 2013
 
 Responsibilities:
 
