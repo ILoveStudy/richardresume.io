@@ -25,11 +25,154 @@ Accomplished software developer with 13+ years of experience across various indu
 | Linux                          | 8         |     | Gitlab                   | 8         |
 | Python                         | 3         |     |                          |           |
 
+### Algorithms and data structure skills
+
+Have a solid foundation in data structures and algorithms:  
+
+- Algorithm Complexity Analysis  
+
+- Linear data structures, and logical data structures, such as arrays, trees, graph structures, red-black trees, DP, hash tables, etc.  
+
+- Strong ability to solve basic algorithms. Often challenge on LeetCode contests, hacker rank, and other websites  
+
+​  
+
+## SQL knowledge
+
+- Familiar with using MYSQL, ORACLE database products  
+- Proficient in SQL business table design  
+- Familiar with the application of SQL CRUD  
+- Have some experience in Mysql performance tuning  
+- Have a certain understanding of database high concurrency architecture design.  
+
+## Internet tool knowledge
+
+### Git
+
+- Familiar with Gitlab/GitHub server to quickly build  
+
+- Familiarize use the core commands of Git  
+
+- Years of Git enterprise application practice  
+
+- Familiar with git workflow  
+
+### Linux
+
+- Familiar with common Linux operation and maintenance commands  
+
+- Understanding Linux Users and Permissions  
+
+- Familiar with Shell Scripting  
+
+## Golang knowledge
+
+### Golang basics
+
+- Familiar with Golang language features, make full use of Golang language features  
+
+- Have a solid Golang language foundation  
+
+- Familiar with Golang language ecology, flexible use of various golang frameworks  
+
+- Have a lot of practical experience in Golang projects  
+
+## Java knowledge
+
+### Microservice knowledge
+
+- Familiar with the history of service architecture changes  
+
+- Familiar with the design of various service architectures  
+
+- Understand the advantages and disadvantages of various service architectures  
+
+### java basics
+
+- Familiar with Java reverse mechanism  
+- Familiar with a dynamic proxy mechanism  
+- Get familiar with servlets  
+- Familiar with the use of JDK tools  
+
+### Understand the principle of the thread pool
+
+- Understand how threads work  
+
+- custom thread pool  
+
+### JVM performance tuning:
+
+#### Understand the following core technologies of JVM
+
+1. memory structure  
+2. garbage collection  
+3. Class loading and bytecode techniques  
+4. memory model  
+
+Have some experience in JVM performance tuning  
+
+### Understanding ThreadLocal
+
+- Understand the ThreadLocal source code  
+
+- Understand the difference between ThreadLocal and Synchronized  
+
+- Familiar with ThreadLocal applications  
+
+### Understanding NIO
+
+- Understand the difference between NIO and blocking I/O  
+- NIO principle and communication model  
+
+### Understand common java framework source code
+
+- Understand Spring IOC source code, can customize IOC  
+- Understand Spring Aop source code, can customize AOP  
+- Understand Spring MVC source code, can customize MVC  
+- Understand Spring annotation development, can customize annotations  
+- Learn about what's new in Spring 5  
+- Understand the source code and principle of the ORM framework MyBatis  
+
+## node.js knowledge
+
+### Understanding V8 Diagnostics
+
+- Have a little experience in diagnosing the v8 engine  
+
+### Javascript/typescript basics
+
+- Proficient in ES6/7, familiar with typescript syntax system and various details of the application.  
+- Proficient in typescript, ES6/ES7 object-oriented programming  
+
+### node.js serving framework
+
+- Familiar with the use of Nestjs architecture, build node.js server development  
+
+- Familiar with socket.io to build a websocket timely communication application  
+
+- Proficient in express.js, loopback.js server-side framework, and proficient in its source code and principles  
+
+- Familiar with node.js based ecosystem tools, such as:  
+
+- java rapid development platform Jhipster  
+
+- Webpack  
+
+- rollup  
+
+# Project experience and practice summary:
+
+- There is a certain billion-level traffic platform design  
+
+- Distributed call chain platform
+
+
+
+
+
 ## EXPERIENCE
 
 ##### Contract Senior Engineer | Nomura Security | Tokyo, Japan | June 2022 - Present
-
-
 
 Responsibilities:
 
