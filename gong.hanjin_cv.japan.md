@@ -1,14 +1,14 @@
 # GONG HANJIN
 
-Email: [richardgong1988@gmail.com](mailto:richardgong1988@gmail.com)
+Email: richardgong1988@gmail.com
 
 Phone: 08070065858
 
-GitHub: [richardgong1987 (richardgong1987) · GitHub](https://github.com/richardgong1987)
+GitHub: https://github.com/richardgong1987
 
-Address: Koto City, Tokyo, Japan
+Currently, location: Koto City, Tokyo, Japan
 
-Preferred job: Golang | Python | Java | Typescript | node.js Senior Developer
+**Preferred job: Golang | Python | Java | Typescript | node.js Senior Developer**
 
 ## SUMMARY
 
@@ -17,15 +17,15 @@ Accomplished software developer with 14+ years of experience across various indu
 ## SKILLS:
 
 | **Skill**                      | **Years** |     | **Skills**               | **Years** |
-| ------------------------------ |-----------| --- | ------------------------ |-----------|
+| ------------------------------ | --------- | --- | ------------------------ | --------- |
 | Java                           | 12        |     | Spring boot/spring       | 8         |
-| Golang                         | 5         |     | NestJs/expressJs/ koa.js | 8         |
-| JavaScript                     | 14        |     | Angular/React/Vue        | 7         |
-| TypeScript                     | 6         |     | Html5/Css.x              | 14        |
-| Oracle/ MySQL/Redis/ cosmos DB | 5         |     | Agile                    | 5         |
-| Docker                         | 5         |     | Azure                    | 2         |
-| Linux                          | 8         |     | Gitlab                   | 10        |
-| Python                         | 5         |     |                          |           |
+| Golang/Gin                     | 5         |     | NestJs/expressJs/ koa.js | 8         |
+| JavaScript                     | 14        |     | Angular/React/Vue        | 10        |
+| TypeScript                     | 10        |     | Html5/Css.x              | 14        |
+| Oracle/ MySQL/Redis/ cosmos DB | 8         |     | Agile                    | 8         |
+| Docker                         | 8         |     | Azure                    | 2         |
+| Linux                          | 10        |     | Gitlab                   | 10        |
+| Python/django                  | 5         |     |                          |           |
 
 ### Algorithms and data structure skills
 
@@ -36,8 +36,6 @@ Have a solid foundation in data structures and algorithms:
 - Linear data structures, and logical data structures, such as arrays, trees, graph structures, red-black trees, DP, hash tables, etc.  
 
 - Strong ability to solve basic algorithms. Often challenge on LeetCode contests, hacker rank, and other websites  
-
-​  
 
 ## SQL knowledge
 
@@ -179,10 +177,6 @@ Have some experience in JVM performance tuning
 - There is a certain billion-level traffic platform design  
 
 - Distributed call chain platform
-
-
-
-
 
 ## EXPERIENCE
 
