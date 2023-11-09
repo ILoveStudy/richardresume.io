@@ -8,22 +8,24 @@ GitHub: [richardgong1987 (richardgong1987) · GitHub](https://github.com/richard
 
 Address: Koto City, Tokyo, Japan
 
+Preferred job: Golang | Python | Java | Typescript | node.js Senior Developer
+
 ## SUMMARY
 
-Accomplished software developer with 13+ years of experience across various industries, including banking, payment, e-commerce, tourism, and traditional games. Proficient in numerous programming languages, such as Java, Python, Golang, TypeScript, JavaScript, HTML5, and CSS, and a strong background in algorithms and data structure. Dedicated to staying current with emerging technologies and best practices. Currently developing SAAS systems for a Tokyo-based company.
+Accomplished software developer with 14+ years of experience across various industries, including banking, payment, e-commerce, tourism, and traditional games. Proficient in numerous programming languages, such as Java, Python, Golang, TypeScript, JavaScript, HTML5, and CSS, and a strong background in algorithms and data structure. Dedicated to staying current with emerging technologies and best practices. Currently developing SAAS systems for a Tokyo-based company.
 
 ## SKILLS:
 
 | **Skill**                      | **Years** |     | **Skills**               | **Years** |
-| ------------------------------ | --------- | --- | ------------------------ | --------- |
-| Java                           | 11        |     | Spring boot/spring       | 7         |
-| Golang                         | 3         |     | NestJs/expressJs/ koa.js | 5         |
-| JavaScript                     | 11        |     | Angular/React/Vue        | 5         |
-| TypeScript                     | 6         |     | Html5/Css.x              | 5         |
-| Oracle/ MySQL/Redis/ cosmos DB | 5         |     | Agile                    | 3         |
-| Docker                         | 5         |     | Azure                    | 1.5       |
-| Linux                          | 8         |     | Gitlab                   | 8         |
-| Python                         | 3         |     |                          |           |
+| ------------------------------ |-----------| --- | ------------------------ |-----------|
+| Java                           | 12        |     | Spring boot/spring       | 8         |
+| Golang                         | 5         |     | NestJs/expressJs/ koa.js | 8         |
+| JavaScript                     | 14        |     | Angular/React/Vue        | 7         |
+| TypeScript                     | 6         |     | Html5/Css.x              | 14        |
+| Oracle/ MySQL/Redis/ cosmos DB | 5         |     | Agile                    | 5         |
+| Docker                         | 5         |     | Azure                    | 2         |
+| Linux                          | 8         |     | Gitlab                   | 10        |
+| Python                         | 5         |     |                          |           |
 
 ### Algorithms and data structure skills
 
@@ -76,6 +78,18 @@ Have a solid foundation in data structures and algorithms:
 - Familiar with Golang language ecology, flexible use of various golang frameworks  
 
 - Have a lot of practical experience in Golang projects  
+
+## Python knowledge
+
+### Python basics
+
+- Familiar with Python language features, make full use of Python language features
+
+- Have a solid Python language foundation
+
+- Familiar with Golang language ecology, flexible use of various Python frameworks
+
+- Have a lot of practical experience in Python projects
 
 ## Java knowledge
 
